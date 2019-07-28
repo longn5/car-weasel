@@ -1,0 +1,11 @@
+.navbar {
+    margin-bottom:30px;
+    color: #7692ee;
+}
+ul{
+    list-style-type: none;
+    margin-left: 0px;
+}
+body, .jumbotron{
+    background-color: #20317e;
+}
