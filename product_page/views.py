@@ -14,3 +14,6 @@ def contact(request):
 
 def tryit(request):
     return render(request, 'tryit.html', {})
+
+def greyscale(request):
+    return render(request, 'greyscale.html', {})
