@@ -10,4 +10,6 @@ $(document).ready(function(){
     $('#login_portal_button').on('click', function(){
         location.href = "/login";
     });
+
+    $('#login_options').css("margin-top", "100px");
 });
