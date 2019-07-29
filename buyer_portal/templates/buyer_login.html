@@ -1,8 +1,12 @@
 {% extends 'greyscale-singlepage.html' %}
 {% load static %}
 
+{% block include_scripts %}
+<link href="{% static 'base/css/signin.css' %}" rel="stylesheet">
+{% endblock %}
+
 {% block page_content %}
-<div class="masthead">
+<div class="bg-mountain">
   <div class="container text-center">
       <form class="form-signin">
           <img class="mb-4" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
