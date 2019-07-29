@@ -6,4 +6,8 @@ $(document).ready(function(){
     $('#seller_login_button').on('click', function(){
         location.href = "/login/seller";
     });
+
+    $('#login_portal_button').on('click', function(){
+        location.href = "/login";
+    });
 });
