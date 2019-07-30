@@ -1,14 +1,13 @@
-{% extends 'login.html' %}
+{% extends 'greyscale-singlepage.html' %}
 {% load static %}
+
 {% block include_asssets %}
 <script src="{% static 'base/js/gs_custom.js' %}"></script>
 {% endblock%}
 
 {% block page_content %}
-<div id="login_section" class="container">
-      <div id="login_options">
-        <button id="buyer_login_button" class="btn bg-transparent btn-md border border-info mr-5">Buyer Login</button>
-        <button id="seller_login_button" class="btn bg-transparent btn-md border border-info">Dealer Login</button>
-      </div>
+<div id="login_options">
+  <button id="buyer_login_button" class="btn bg-transparent btn-md border border-info mr-5">Buyer Login</button>
+  <button id="seller_login_button" class="btn bg-transparent btn-md border border-info">Dealer Login</button>
 </div>
 {% endblock %}
