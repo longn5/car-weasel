@@ -2,12 +2,15 @@
 {% load static %}
 
 {% block include_asssets %}
+<link href="{% static 'base/css/styles.css' %}" rel="stylesheet">
 <script src="{% static 'base/js/gs_custom.js' %}"></script>
 {% endblock%}
 
 {% block page_content %}
-<div id="login_options">
-  <button id="buyer_login_button" class="btn bg-transparent btn-md border border-info mr-5">Buyer Login</button>
-  <button id="seller_login_button" class="btn bg-transparent btn-md border border-info">Dealer Login</button>
+<div class="bg-mountain">
+  <div id="login_option" class="container">
+      <button id="buyer_login_button" class="btn bg-transparent btn-md border border-info mr-5">Buyer Login</button>
+      <button id="seller_login_button" class="btn bg-transparent btn-md border border-info">Dealer Login</button>
+  </div>
 </div>
 {% endblock %}
