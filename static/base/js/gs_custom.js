@@ -7,7 +7,7 @@ $(document).ready(function(){
         location.href = "/login/seller";
     });
 
-    // $('#login_portal_button').on('click', function(){
-    //     location.href = "/login";
-    // });
+    $('#login_portal_button').on('click', function(){
+        location.href = "/login";
+    });
 });
