@@ -10,4 +10,8 @@ $(document).ready(function(){
     $('#login_portal_button').on('click', function(){
         location.href = "/login";
     });
+
+    $('#signup_button').on('click', function(){
+        location.href = "/sign-up";
+    });
 });
