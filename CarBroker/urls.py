@@ -20,4 +20,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('product_page.urls')),
     path('', include('django.contrib.auth.urls')),
+    path('/portal', include('product_page.urls')),
+
 ]
