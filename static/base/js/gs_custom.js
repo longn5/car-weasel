@@ -1,10 +1,10 @@
 $(document).ready(function(){
     $('#buyer_login_button').on('click', function(){
-        location.href = "/login/buyer";
+        location.href = "/buyer";
     });
 
     $('#seller_login_button').on('click', function(){
-        location.href = "/login/seller";
+        location.href = "/seller";
     });
 
     $('#login_portal_button').on('click', function(){

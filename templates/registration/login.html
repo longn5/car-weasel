@@ -52,18 +52,16 @@
 
 {% block page_content %}
 <div class="masthead">
-  <div class="container pt-5">
-    <div class="row pt-5">
-      <div class="col-md-4 text-center">
-          <button id="buyer_login_button" class="btn text-white btn-dark btn-md border border-success">Buyer Login</button>
-      </div>
-      <div class="col-md-4 text-center">
-          <button id="seller_login_button" class="btn text-white btn-dark btn-md border border-warning">Dealer Login</button>
-      </div>
-      <div class="col-md-4 text-center">
-          <button id="signup_button" class="btn text-white btn-dark btn-md border border-danger">Sign Up</button>
-      </div>
+    <div class="container pt-5">
+        <div class="row p-5">
+            <h2>Login</h2>
+            <form method="post">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit">Login</button>
+            </form>
+        </div>
     </div>
-  </div>
 </div>
 {% endblock %}
+
