@@ -21,5 +21,4 @@ urlpatterns = [
     path('/buyer', include('buyer_portal.urls')),
     path('/seller', include('seller_portal.urls')),
     path('', include('product_page.urls')),
-    #path('/account', include('django.contrib.auth.urls')),
 ]
