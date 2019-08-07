@@ -54,11 +54,10 @@
 <div class="masthead">
     <div class="container pt-5">
         <div class="row p-5">
-            <h2>Login</h2>
-            <form method="post">
+            <form class="form-group" method="post">
                 {% csrf_token %}
                 {{ form.as_p }}
-                <button type="submit">Login</button>
+                <button type="submit" class="btn btn-md btn-info">Login</button>
             </form>
         </div>
     </div>
