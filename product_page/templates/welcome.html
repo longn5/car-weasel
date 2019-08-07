@@ -7,7 +7,10 @@
   <div class="container pt-5">
     <div class="row pt-5">
         {% if user.is_authenticated %}
-            <h1>Welcome to the portal!</h1>
+            <h3>{{ user.get_username }}</h3>
+            <h2>Welcome to the portal!</h2>
+            <h3>{{ user.get_group_permissions }}</h3>
+
         {% else %}
         <h1>Login to access the portal</h1>
         {% endif %}
