@@ -9,7 +9,7 @@
         {% if user.is_authenticated %}
             <h3>{{ user.get_username }}</h3><br/>
             <h2>Welcome to the portal!</h2><br/>
-            <h3>{{ user.groups }}</h3>
+            <h3>{{ usergroup }}</h3>
         {% else %}
         <h1>Login to access the portal</h1>
         {% endif %}
