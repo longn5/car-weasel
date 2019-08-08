@@ -4,22 +4,6 @@
 {% block include_asssets %}
 <link href="{% static 'greyscale/css/greyscale.css' %}" rel="stylesheet">
 <script src="{% static 'base/js/gs_custom.js' %}"></script>
-
-<script>
-  $(document).ready(function(){
-      $('#what_link').on('click', function(){
-          location.href = "/#what";
-      });
-
-      $('#how_link').on('click', function(){
-          location.href = "/#how";
-      });
-
-      $('#contact_link').on('click', function(){
-          location.href = "/#contact";
-      });
-  });
-</script>
 {% endblock %}
 
 {% block header_nav %}
@@ -32,9 +16,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger">Login/Sign-Up</a>
-          </li>
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" id="login_portal_button">Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" id="signup_button">Sign-Up</a>
+        </li>
         <li class="nav-item">
           <a id="what_link" class="nav-link js-scroll-trigger">What</a>
         </li>
@@ -53,11 +40,11 @@
 {% block page_content %}
 <div class="masthead">
     <div class="container pt-5">
-        <div class="row p-5">
-            <form class="form-group" method="post">
+        <div class="row p-5 justify-content-center">
+            <form class="form-group text-white" method="post">
                 {% csrf_token %}
                 {{ form.as_p }}
-                <button type="submit" class="btn btn-md btn-info">Login</button>
+                <button type="submit" class="btn btn-primary">Login</button>
             </form>
         </div>
     </div>
