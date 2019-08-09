@@ -21,5 +21,6 @@ urlpatterns = [
     path('', include('product_page.urls')),
     path('', include('django.contrib.auth.urls')),
     path('/portal', include('product_page.urls')),
+    path('/logout', TemplateView.as_view(template_name='registration/logout.html')),
 
 ]
