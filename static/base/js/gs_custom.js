@@ -16,7 +16,7 @@ $(document).ready(function(){
     });
 
     $('#what_link').on('click', function(){
-        location.href = "/#what";
+        location.href = "/#about";
     });
 
     $('#how_link').on('click', function(){

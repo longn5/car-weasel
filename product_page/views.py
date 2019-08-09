@@ -9,7 +9,7 @@ def welcome(request):
     if request.user.is_authenticated:
         usrgrp = Group.objects.get(user=request.user).name
         if(usrgrp == 'seller'):
-            return render(request, 'welcome.html', {'usergroup': 'seller'})
+            return render(request, 'seller_dash.html', {'usergroup': 'seller'})
         elif(usrgrp == 'buyer'):
             return render(request, 'welcome.html', {'usergroup': 'buyer'})
         else:
