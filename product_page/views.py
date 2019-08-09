@@ -19,4 +19,4 @@ def welcome(request):
         return render(request, 'welcome.html', {'usergroup': 'not logged in'})
 
 def goodbye(request):
-    return render(request, TemplateView.as_view(template_name="registration/logout.html"))
+    return render(request, TemplateView.as_view(template_name="templates/registration/logout.html"))
