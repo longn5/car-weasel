@@ -19,6 +19,11 @@ main{
     }
 }
 
+.btn-outline-secondary{
+    color: cornsilk!important;
+    border-color: darkorange!important;
+}
+
 /*
 * Sidebar
 */
