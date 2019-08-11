@@ -29,9 +29,9 @@ body {
 .card{
     background-color: #141414!important;
     color: white;
-    border-right: 2px solid cyan;
-    border-bottom: 1px solid cyan;
-    border-radius: .35em;
+    border-right: 3px solid cyan!important;
+    border-bottom: 2px solid cyan!important;
+    border-radius: .85em!important;
 }
 
 main{

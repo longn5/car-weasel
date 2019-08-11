@@ -9,13 +9,8 @@ font-size: .875rem;
     background-image: url('https://i.redd.it/vb3zxkxw8ee31.gif');
 }
 
-.bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+main{
+    background-color: deepskyblue;
 }
 
 @media (min-width: 768px) {
