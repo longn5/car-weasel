@@ -6,6 +6,17 @@
 <link href="{% static 'base/css/bootstrap.min.css' %}" rel="stylesheet">
 {% endblock %}
 
+{% block top_nav %}
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">{% block company_title %}{{ user.get_username }}{% endblock %}</a>
+  <ul class="navbar-nav px-3">
+    <li class="nav-item text-nowrap">
+      <a class="nav-link" href="{% url 'logout' %}">Sign Out</a>
+    </li>
+  </ul>
+</nav>
+{% endblock %}
+
 {% block page_content %}
 <div class="container-fluid">
   <div class="row">
@@ -100,7 +111,7 @@
               <th>Make</th>
               <th>Modle</th>
               <th>Year</th>
-              <th>Header</th>
+              <th>Views</th>
             </tr>
           </thead>
           <tbody>
