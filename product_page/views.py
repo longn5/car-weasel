@@ -12,7 +12,7 @@ def welcome(request):
         if(usrgrp == 'seller'):
             return render(request, 'seller_dash.html', {'usergroup': 'seller'})
         elif(usrgrp == 'buyer'):
-            return render(request, 'welcome.html', {'usergroup': 'buyer'})
+            return render(request, 'buyer_dash.html', {'usergroup': 'buyer'})
         else:
             return render(request, 'welcome.html', {'usergroup': usrgrp})
     else:
