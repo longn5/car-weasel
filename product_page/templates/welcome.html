@@ -5,18 +5,20 @@
 {% block page_content %}
 <div class="masthead">
   <div class="container pt-5">
-    <div class="row pt-5 d-block">
-        {% if user.is_authenticated %}
+      {% if user.is_authenticated %}
+        <div class="row pt-5 d-block">
             <h3>{{ user.get_username }}</h3><br/>
             <h2>Welcome to the portal!</h2><br/>
             <h3>{{ usergroup }}</h3>
+        </div>
         {% else %}
-        <p>Login to access the portal</p>
-        <div class="row p-5 justify-content-center">
-          <a href="{% url 'login' %}" class="btn btn-primary">Login</a>
+        <div class="row pt-5 d-block text-center text-white">
+          <h3>Login to access the portal</h3>
+          <div class="row p-5 justify-content-center">
+            <a href="{% url 'login' %}" class="btn btn-primary">Login</a>
+          </div>
         </div>
         {% endif %}
-    </div>
   </div>
 </div>
 {% endblock %}
