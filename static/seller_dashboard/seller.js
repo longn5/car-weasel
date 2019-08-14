@@ -2,18 +2,12 @@ $(document).ready(function(){
 
     $('#vin-decode-button').on('click', function(){
         var vin = $('#vin-entry').val();
-        let v = decodeVIN(vin);
-        addToTable(v);
+        decodeVIN(vin);
+        //addToTable(v);
     });
 
 });
 
-
-
-// $('#vin-decode').on('click', function(){
-//     var vin = $('#vin-entry').val();
-//     decodeVIN(vin);
-// });
 
 function addToTable(vehObj){
     let retStr = `<tr><td>${vehObj.vin}</td>`;
@@ -41,7 +35,6 @@ function decodeVIN(vin){
 
     $.ajax({
         'url': url,
-        'async': false,
         success: function(data){
             if(parseInt(data['Count']) > 0){
                 var results = data['Results'];
@@ -95,8 +88,7 @@ function decodeVIN(vin){
                 vehicle.cylinders = cylinders;
                 vehicle.vin = vin;
 
-                //addToTable(vehicle);
-                return vehicle;
+                addToTable(vehicle);
                 console.log(vehicle);
                 $('#look-up-results').html(vehicle);
             }else{
