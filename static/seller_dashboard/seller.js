@@ -2,7 +2,7 @@ $(document).ready(function(){
 
     $('#vin-decode-button').on('click', function(e){
         var vin = $('#vin-entry').val();
-        e.stopPropagation();
+        e.stopImmediatePropagation();
         decodeVIN(vin);
     });
 
@@ -13,6 +13,7 @@ function addToTable(vehObj){
     let retStr = `<tr><td>${vehObj.vin}</td>`;
     retStr += `<td>${vehObj.make}</td>`;
     retStr += `<td>${vehObj.model}</td>`;
+    retStr += `<td>${vehObj.series}</td>`;
     retStr += `<td>${vehObj.year}</td></tr>`;
 
     $('#potential-inventory-body').append(retStr);
