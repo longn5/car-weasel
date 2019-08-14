@@ -1,9 +1,9 @@
 $(document).ready(function(){
 
-    $('#vin-decode-button').on('click', function(){
+    $('#vin-decode-button').on('click', function(e){
         var vin = $('#vin-entry').val();
+        e.stopPropagation();
         decodeVIN(vin);
-        //addToTable(v);
     });
 
 });
@@ -90,7 +90,6 @@ function decodeVIN(vin){
 
                 addToTable(vehicle);
                 console.log(vehicle);
-                $('#look-up-results').html(vehicle);
             }else{
                 console.log("Something doesn't seen right...");
             }
