@@ -1,12 +1,10 @@
 $(document).ready(function(){
 
-    $('#vin-decode').on('click', function(){
+    $('#vin-decode-button').on('click', function(){
         var vin = $('#vin-entry').val();
-        decodeVIN(vin);
+        v = decodeVIN(vin);
+        addToTable(v);
     });
-
-
-
 
 });
 
@@ -17,6 +15,14 @@ $(document).ready(function(){
 //     decodeVIN(vin);
 // });
 
+function addToTable(vehObj){
+    let retStr = `<tr><td>${vehObj.vin}</td>`;
+    retStr += `<td>${vehObj.make}</td>`;
+    retStr += `<td>${vehObj.model}</td>`;
+    retStr += `<td>${vehObj.year}</td></tr>`;
+
+    $('#potential-inventory-body').append(retStr);
+}
 
 
 function decodeVIN(vin){
@@ -86,6 +92,7 @@ function decodeVIN(vin){
                 vehicle.doors = doors;
                 vehicle.drive = drive;
                 vehicle.cylinders = cylinders;
+                vehicle.vin = vin;
 
                 console.log(vehicle);
                 $('#look-up-results').html(vehicle);

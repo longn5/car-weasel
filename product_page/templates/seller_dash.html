@@ -83,7 +83,7 @@
         <div class="input-group mb-3">
           <input id="vin-entry" type="text" class="form-control" placeholder="Enter VIN" aria-label="Enter VIN">
           <div class="input-group-append">
-            <button id="vin-decode" class="input-group-text">Decode VIN</button>
+            <button id="vin-decode-button" class="input-group-text">Decode VIN</button>
           </div>
         </div>
       </div>
@@ -96,12 +96,12 @@
       <div class="table-responsive">
         <table id="potential-inventory" class="table table-striped table-sm table-dark table-hover">
           <thead>
-            <tr>VIN</tr>
-            <tr>Make</tr>
-            <tr>Model</tr>
-            <tr>Year</tr>
+            <th>VIN</th>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Year</th>
           </thead>
-          <tbody>
+          <tbody id="potential-inventory-body">
 
           </tbody>
         </table>
