@@ -1,7 +1,21 @@
-$('#vin-decode').on('click', function(){
-    var vin = $('#vin-entry').val();
-    decodeVIN(vin);
+$(document).ready(function(){
+
+    $('#vin-decode').on('click', function(){
+        var vin = $('#vin-entry').val();
+        decodeVIN(vin);
+    });
+
+
+
+
 });
+
+
+
+// $('#vin-decode').on('click', function(){
+//     var vin = $('#vin-entry').val();
+//     decodeVIN(vin);
+// });
 
 
 
