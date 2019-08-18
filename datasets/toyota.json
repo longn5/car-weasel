@@ -1,0 +1,6336 @@
+{
+    "1984": [
+        {
+            "model": "Starlet", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Starlet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cressida Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla FX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla FX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Sport", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cargo Van 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cargo Van 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla FX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla FX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla FX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel EZ", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 4WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 4WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 4WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 4WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 4WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van 4WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van 4WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cressida", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla All-Trac Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "1-Ton Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD/T100 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD/T100 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cab/Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Truck 2WD/T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD/T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Previa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Previa All-Trac", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T100 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Paseo Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Paseo Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tercel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry CNG", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 Soft Top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": null
+        }
+    ], 
+    "2001": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": null
+        }
+    ], 
+    "2002": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": null
+        }
+    ], 
+    "2003": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": null
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "MR2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MR2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Celica", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Echo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Camry Solara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Solara", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Camry Solara Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Matrix AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Venza AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sienna 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Venza AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Camry", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Venza AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius v", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Venza AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Venza AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Matrix", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Highlander 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius v", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Limited AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Venza 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE/SE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius v", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "FJ Cruiser 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FJ Cruiser 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla LE Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RAV4 EV", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Limited AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD LE Plus", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla LE Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Venza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Venza 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD LE Plus", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Limited AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE/SE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Prius v", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4 LE/XLE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE/SE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla LE Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tundra 2WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius v", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD Double Cab", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RAV4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 LE/XLE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Limited AWD/SE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD LE Plus", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Prius v", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "86", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "86", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE/SE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yaris iA", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Yaris iA", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD Double Cab Off-Road", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 LE/XLE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Limited AWD/SE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Corolla iM", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla iM", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 2WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla LE Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander LE/XLE/SE/LTD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD LE Plus", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander AWD LE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Prius Prime", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "C-HR", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry XSE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry LE/SE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry XLE/XSE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE/SE", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla LE Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla iM", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla iM", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RAV4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 LE/XLE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Limited AWD/SE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RAV4 Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Yaris iA", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Yaris iA", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander LE/XLE/SE/LTD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander AWD LE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD Double Cab Off-Road", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "86", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "86", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD LE Plus", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Prius Prime", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Avalon", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Avalon XLE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Avalon Hybrid", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Avalon Hybrid XLE", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "C-HR", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla LE Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla Hatchback", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla Hatchback", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "Corolla Hatchback XSE", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "86", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "86", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tundra 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tundra 4WD FFV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Prius c", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Camry LE/SE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry XSE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Camry XLE/XSE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "4Runner 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sequoia 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "4Runner 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Land Cruiser Wagon 4WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sequoia 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Camry Hybrid LE", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Camry Hybrid XLE/SE", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Tacoma 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tacoma 4WD Double Cab Off-Road", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Highlander", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Highlander LE/XLE/SE/LTD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander AWD LE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Highlander Hybrid AWD LE Plus", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Yaris", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RAV4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RAV4 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Prius", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Prius Eco", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tacoma 4WD TRD PRO", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tacoma 4WD TRD PRO", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Prius Prime", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RAV4 Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "Corolla Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Corolla XSE", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "Corolla", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Corolla XLE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Supra", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sienna 2WD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sienna AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Prius Prime", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ]
+}

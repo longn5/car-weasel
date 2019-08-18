@@ -1,0 +1,178 @@
+{
+    "2008": [
+        {
+            "model": "fortwo convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "fortwo convertible", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo electric drive cabriolet", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM5)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo electric drive convertible", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "fortwo electric drive convertible", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM5)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM5)"
+        }, 
+        {
+            "model": "fortwo electric drive convertible", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "fortwo electric drive convertible", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "fortwo cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "fortwo coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive convertible", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "fortwo electric drive coupe", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "fortwo electric drive convertible", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "EQ fortwo (coupe)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "EQ fortwo (convertible)", 
+            "transmission": "Automatic (A1)"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "1984": [
+        {
+            "model": "Fuego", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fuego", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "18i", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "18i", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportwagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sportwagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Fuego", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fuego", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "18i 4DR Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "18i 4DR Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Alliance Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fuego", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fuego", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Alliance/Encore", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "18i Sportwagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "18i Sportwagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Alliance Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTA Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Alliance", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Alliance", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Alliance", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTA", 
+            "transmission": "Manual 5-spd"
+        }
+    ]
+}

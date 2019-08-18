@@ -1,0 +1,1324 @@
+{
+    "1986": [
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vigor", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vigor", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vigor", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vigor", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Vigor", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vigor", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legend", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2.5TL", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2.5TL/3.2TL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SLX", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2.2CL/3.0CL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2.2CL/3.0CL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2.5TL/3.2TL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SLX", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2.3CL/3.0CL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2.3CL/3.0CL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2.5TL/3.2TL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SLX", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2.3CL/3.0CL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2.3CL/3.0CL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3.2TL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SLX", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3.2TL", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Integra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3.2CL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.2TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MDX", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.2CL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.2TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MDX", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.2CL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3.2CL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.2TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3.5RL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "NSX", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "NSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "RSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ZDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ZDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TSX Wagon", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "TL 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TSX Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ZDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RL", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "ILX Hybrid", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TL 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TSX Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ZDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "RLX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MDX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ILX Hybrid", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "TSX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TL 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TL 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TSX Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RLX Hybrid", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RLX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MDX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TLX", 
+            "transmission": "Automatic (AM8)"
+        }, 
+        {
+            "model": "TLX", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD", 
+            "transmission": "Automatic (S9)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (AM8)"
+        }, 
+        {
+            "model": "RLX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RLX Hybrid", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "MDX 2WD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "MDX 4WD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "RDX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TLX 2WD", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX 2WD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX 4WD", 
+            "transmission": "Automatic (S9)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "RDX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "NSX Hybrid", 
+            "transmission": "Automatic (AM-S9)"
+        }, 
+        {
+            "model": "MDX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "MDX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "RLX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RLX Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "MDX Hybrid AWD", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX FWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "RDX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RDX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MDX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "MDX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "RLX", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RLX Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "NSX Hybrid", 
+            "transmission": "Automatic (AM-S9)"
+        }, 
+        {
+            "model": "MDX Hybrid AWD", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "TLX FWD A-SPEC", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX FWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "RDX FWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RDX FWD A-SPEC", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RDX AWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RDX AWD A-SPEC", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RLX", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RLX Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "MDX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "MDX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "MDX AWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "MDX Hybrid AWD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "NSX Hybrid", 
+            "transmission": "Automatic (AM-S9)"
+        }, 
+        {
+            "model": "ILX", 
+            "transmission": "Automatic (AM-S8)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX FWD A-SPEC", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "TLX FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX FWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "TLX AWD A-SPEC", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "RDX FWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RDX FWD A-SPEC", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RDX AWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RDX AWD A-SPEC", 
+            "transmission": "Automatic (S10)"
+        }
+    ]
+}

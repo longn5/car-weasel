@@ -1,0 +1,1816 @@
+{
+    "1984": [
+        {
+            "model": "Cimarron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eldorado Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham/DeVille (RWD)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille (FWD)", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Cimarron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille (FWD)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood Brougham (RWD)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Cimarron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cimarron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Commercial Chassis", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Commercial Chassis", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Commercial Chassis", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Commercial Chassis", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Brougham", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood/DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Commercial Chassis", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille/60 Special", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Commercial Chassis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Allante", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille/Concourse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille/Concourse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fleetwood", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Catera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Catera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach/Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Catera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach/Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Catera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Catera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Eldorado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "CTS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "XLR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Seville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Armored Deville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "XLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "STS 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Armored Deville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DeVille", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "XLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Armored DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "STS-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XLR-V", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XLR-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XLR", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "STS-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "XLR-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XLR", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "XLR-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XLR", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Escalade Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "STS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach / Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS Wagon AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Escalade Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade Ext AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Escalade Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS Sedan AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "CTS Sedan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS V", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Wagon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Sedan", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ELR", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Escalade ESV 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS Sedan AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS Sedan", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ELR", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CTS Sedan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Escalade ESV 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Escalade ESV 4WD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "ATS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "SRX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SRX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS Sedan AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS Sedan", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ELR", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ELR Sport", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CT6", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CT6 AWD", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "XT5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XT5 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CT6 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CT6", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CT6 Plug-In", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "CT6 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XT5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XT5 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CT6", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CT6 Plug-In", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "XTS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Hearse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XTS Limo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "ATS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XT5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XT5 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Escalade 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "ATS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ATS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS-V", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CTS AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XT4 FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "XT4 AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Escalade 2WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "CT6 AWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "CT6", 
+            "transmission": "Automatic (S10)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "XT6 FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "XT6 AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "XT4 FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "XT4 AWD", 
+            "transmission": "Automatic (S9)"
+        }
+    ]
+}

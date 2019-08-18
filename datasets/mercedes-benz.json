@@ -1,0 +1,5788 @@
+{
+    "1984": [
+        {
+            "model": "380SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190 D 2.2/190 E 2.3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190 D 2.2/190 E 2.3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300D/300CD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SD/380SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "500SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "380SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300D/300CD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "380SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "560SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SDL", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "560SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190D 2.5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190D 2.5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190D 2.5 Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E 2.3-16", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3-16", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "260E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300D", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SDL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "560SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190D 2.5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300CE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "260E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "260E", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "560SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190D 2.5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300CE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "260E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "420SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300CE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300D 2.5 Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "350SDL Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "500SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "230TE", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300CE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200E", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "230E", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "300D 2.5 Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "350SD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "260E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "230E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420 SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "350SDL Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "420SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "230CE", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "300TE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "300SL", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300CE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300D 2.5 Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "400E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEL 5.6L", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "560SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SE", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "400SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEL 5.0L", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "600SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "300SD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SE", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "400SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "600SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300CE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300D 2.5 Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 2.8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300E 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "500SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "600SEL/SEC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300TE 4Matic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "190E 2.6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "400E", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "SL320", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C220", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E420", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E500", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S500 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S600 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S350D", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S420", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S500 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S600 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "SL320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C220", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C36", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E420", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S500 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S600 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S350", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S420", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S500 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S600 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E300 Diesel", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "SL320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C220", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C36 AMG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E300 Diesel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S500 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S420", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "SL320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C36 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E300 Diesel", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E420", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S420", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C43", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E300 Turbodiesel", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Sedan", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S420", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Wagon", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML320", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CLK320 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C43 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E300 Turbodiesel", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Sedan", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Sedan 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S420", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Wagon", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Wagon 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CLK320 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C43 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML55", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CLK320 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK32 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK55 AMG (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C32 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E430 4Matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK32 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK430 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C32 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C320 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 Sports Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 Sports Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S430 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 (Wagon)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 (Wagon)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C320 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4Matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK230", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK32 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLK320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK500 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK55 AMG (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C320 4matic Sedan", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C230 Kompressor Sports Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor Sports Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C32 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C320 Sports Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S430 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 (Wagon)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500 (Wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E500 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 Sports Coupe FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 FFV (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 FFV (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "SLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CLK320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK320 (Cabriolet)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLK500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK500 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CLK55 AMG (Cabriolet)", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C230 Kompressor Sports Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C230 Kompressor Sports Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C240 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C320 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 Sports Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "E320", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Cdi", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S430 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500 4matic (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG (Wagon)", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C320 Sports Coupe FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C240 FFV (Wagon)", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "SL500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SLK280", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK280", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "SLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK350 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK500 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK55 AMG (Cabriolet)", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C230", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C230", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C280 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C350 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CL500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CLS500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "E320 Cdi", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S430", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S430 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S500 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "E350 (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E500 4matic (wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E55 AMG (wagon)", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "SL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK280", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK280", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK350 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK550 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK63 AMG (Cabriolet)", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "C280", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C280 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C350 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E63 AMG (wagon)", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML500 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R500 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "C230", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C230", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML320 CDI 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R320 CDI 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E320 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL320 CDI 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "SL55 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SLK280", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK280", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CLK350 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CLK63 AMG (Cabriolet)", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "E320 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E63 AMG (wagon)", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "R350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL320 CDI 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML320 CDI 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "R320 CDI 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK550 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G500", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SL63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "E320 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK350 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLK550 (Cabriolet)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E63 AMG (wagon)", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "R320 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLR", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GL320 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML320 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML450 Hybrid 4matic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SLS AMG", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "E350 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML450 Hybrid 4matic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G55 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLS AMG", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLK350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLS AMG Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "C63 AMG Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C250 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG Black Series Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLS AMG Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLS AMG Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "C250 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG Black Series Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "R350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "E350 4Matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLS AMG GT Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLS AMG GT Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "E400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG S 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLS AMG Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLS AMG Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLS AMG GT Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLS AMG GT Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "C250 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CL600", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CL65 AMG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLS AMG Black Series Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLK250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E250 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S63 AMG 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLA45 AMG 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "CLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "B-Class Electric Drive", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "SLS AMG GT Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLS AMG GT Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S63 AMG 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C250 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C63 AMG Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL65 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL400", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLA45 AMG 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK55 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G63 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S63 AMG 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLK250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS63 AMG S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E250 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic (station wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E63 AMG S 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS400", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Hybrid", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "ML250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "CLA45 AMG 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "S65 AMG Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "B-Class Electric Drive", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG C63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550e", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "E400 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E250 Bluetec", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E250 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG E63 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG E63 S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Maybach S 600", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E350 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG E63 S 4matic (wagon)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "E550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL400", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG SL63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG SLK55", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG CLS63 S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS400", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG SL65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLK300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SLK350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLE350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL350 Bluetec 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE350 d 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GL550 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GL63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S65 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE450 AMG Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE400 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GL450 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE300 d 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG G63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C450 AMG", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Passenger Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Metris (Cargo Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "B250e", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "AMG CLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "CLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG G65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S550e", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE550e 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350e", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "GLS450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLS63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLS550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SL450", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG SL63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG CLS63 S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E550 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG CLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "SLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG SLC43", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLE350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE400 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "B250e", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG SL65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Maybach S600", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S600", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG C63 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "C300 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "S550 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Maybach S550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG G63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG G65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S65 AMG Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Passenger Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Cargo Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 S Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG E43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300 4matic Coupe", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE550e 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S550e", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "G550 4x4 (Special Off-Road Model)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "E400 4matic (station wagon)", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Maybach S650 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350e", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "CLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "CLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG CLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT S Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "E400 Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E400 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "SLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG SLC43", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLE350", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE350 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLS450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLS550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLS63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C300 Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG E43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S560 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Maybach S560 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E400 4matic (station wagon)", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C63 S Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG E63 S 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG E63 S 4matic (wagon)", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG SL63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG SL65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "CLS550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLS550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG CLS63 S 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT R Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "SL450", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GT C Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "E400 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E400 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S450", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Metris (Passenger Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Cargo Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT C Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "E400 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG G63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLE550e 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Maybach S650", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG G65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550 4x4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "C350e", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Cargo Van, LWB)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "GLC350e 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S65 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S560 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S560 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S65 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLC63 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC63 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC63 S 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S560", 
+            "transmission": "Automatic 9-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "CLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "CLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLA250 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLA250", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLC300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC300 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG CLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "E300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLA45 4matic", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GLE400 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLS450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SL450", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E450 Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E450 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E450 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E450 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S450", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "E450 4matic (station wagon)", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLS550 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SL550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "SLC300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "C300", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S560 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S63 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S560 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Maybach S560 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG SL63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "S560", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Metris (Passenger Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Cargo Van)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Metris (Cargo Van, LWB)", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT R Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG E53 4matic Plus Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "S560 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG CLS53 4matic Plus", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLS450", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "CLS450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG E53 4matic Plus", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLE63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GLS63", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "G550", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG E53 4matic Plus Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLE43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC63 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC63 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC63 S 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GT S Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT C Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT C Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG C63 S Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C63 Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C63 S Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C63 Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S65 Convertible", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic Convertible", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C63", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG C63 S", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG S65 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG C43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG E63 S 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Maybach S650", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG S65", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG E63 S 4matic (wagon)", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC43 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GLC43 4matic Coupe", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLC350e 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT 63 4matic Plus", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GT 63 S 4matic Plus", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "A220", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG SLC43", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG G63", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "A220 4matic", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "AMG GT 53 4matic Plus", 
+            "transmission": "Automatic 9-spd"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "GLE350 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "GLE450 4matic", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "AMG GT Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "AMG GT Roadster", 
+            "transmission": "Automatic (AM7)"
+        }
+    ]
+}

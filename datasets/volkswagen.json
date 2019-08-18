@@ -1,0 +1,3358 @@
+{
+    "1984": [
+        {
+            "model": "Rabbit Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Rabbit Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Vanagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Syncro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scirocco 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Syncro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon Syncro 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Scirocco", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scirocco 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GTI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI/Golf GT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GTI/Golf GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta GLI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta GLI/Wolfsburg Edition", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI/Wolfsburg Edition", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox GL Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Quantum Syncro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon Syncro 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scirocco 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta GLI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Quantum Syncro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quantum Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon Syncro 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GTI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Vanagon Syncro 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corrado", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon Syncro 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corrado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corrado", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon Syncro 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vanagon/Camper 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corrado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corrado", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corrado SLC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corrado SLC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Jetta GLI 16v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Golf III / GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf III / GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta III", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta III", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corrado SLC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Corrado SLC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fox", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Corrado SLC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Corrado SLC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf III", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf III", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta III", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta III", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta III GLX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta III GLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf III", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf III", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI VR6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta III", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta III", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta III GLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta III GLX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI VR6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta GLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta GLX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI VR6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta GLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta GLX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf/GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI VR6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta GLX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta GLX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Syncro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon Syncro", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Syncro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon Syncro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Cabrio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cabrio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eurovan Camper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eurovan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "R32", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Phaeton", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Phaeton", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Phaeton", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Phaeton", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Phaeton", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Phaeton", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "R32", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat Wagon 4motion", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rabbit", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Routan FWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Eos", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Passat Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Routan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Eos", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Routan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Touareg Hybrid", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Routan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Touareg Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "CC", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Touareg Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Routan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Touareg Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Routan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Touareg Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "e-Golf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Golf R", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eos", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta Hybrid", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "e-Golf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Dune", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Dune Convertible", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Touareg", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CC", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "CC 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Dune Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Dune", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf Alltrack", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf SportWagen 4motion", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf Alltrack", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf SportWagen 4motion", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "e-Golf", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Atlas", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Atlas 4motion", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Beetle Dune Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle Dune", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf Alltrack", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Tiguan Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tiguan Limited 4motion", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Golf SportWagen 4motion", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "e-Golf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Golf Alltrack", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf SportWagen 4motion", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Jetta", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Jetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Beetle Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Beetle", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Passat", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "e-Golf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Atlas", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Atlas 4motion", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Tiguan 4motion", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Golf", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Golf SportWagen", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "GTI", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf R", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Jetta GLI", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Jetta GLI", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Golf SportWagen 4motion", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf Alltrack", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Golf SportWagen 4motion", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Golf Alltrack", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Arteon", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Arteon 4motion", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}

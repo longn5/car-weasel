@@ -1,0 +1,270 @@
+{
+    "2012": [
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Cabrio", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "500 L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "500 X", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 X", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "500 X AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "124 Spider", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "124 Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 X", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 X", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "500 X AWD", 
+            "transmission": "Automatic 9-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "500 L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "124 Spider", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "124 Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 X", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "500 X", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 X AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "124 Spider", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "124 Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "500 L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500e", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "500 Abarth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "500X AWD", 
+            "transmission": "Automatic 9-spd"
+        }
+    ]
+}

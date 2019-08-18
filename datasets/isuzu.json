@@ -1,0 +1,1186 @@
+{
+    "1984": [
+        {
+            "model": "I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Trooper 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "750C/I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "750C/I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD 1-Ton", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "I-Mark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "I-Mark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD 1-Ton", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD 1-Ton", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD 1-Ton", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 2WD 1-Ton", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impulse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stylus", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Oasis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Oasis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Oasis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Oasis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vehicross", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amigo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amigo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vehicross", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Hombre Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vehicross 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD (FFV)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD (FFV)", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Axiom 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axiom 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trooper 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trooper 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD (FFV)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hombre Pickup 2WD (FFV)", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Ascender 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axiom 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ascender 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axiom 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rodeo Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Ascender 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axiom 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ascender 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axiom 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rodeo 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Ascender 5-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 7-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 7-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "i-280 Extended Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-280 Extended Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "i-350 Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 7-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 7-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Ascender 5-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-290 Extended Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-290 Extended Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "i-370 Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-370 Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-370 Extended Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 7-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "i-290 Extended Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-290 Extended Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "i-370 Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-370 Extended Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "i-370 Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ascender 5-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Ascender 5-passenger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ]
+}

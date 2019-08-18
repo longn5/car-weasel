@@ -1,0 +1,1106 @@
+{
+    "1984": [
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Gran Fury", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravelle", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Gran Fury", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravelle", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Gran Fury", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Turismo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravelle", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Gran Fury", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravelle", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Gran Fury", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravelle", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Gran Fury", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Reliant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Horizon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sundance/Duster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Acclaim", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Prowler", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Prowler", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Breeze", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Voyager/Grand Voyager 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Prowler", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }
+    ]
+}

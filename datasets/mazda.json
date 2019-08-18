@@ -1,0 +1,3030 @@
+{
+    "1984": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GLC", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GLC", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "GLC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2000/B2200 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B2000/B2200 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2000/B2200 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GLC", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "GLC", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GLC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "GLC Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2000", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "B2000/B2200/B2600", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2000/B2200/B2600", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2000/B2200/B2600", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600 4x4", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B2600 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "323 Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "323 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2200/B2600", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600 4x4", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B2600 4x4", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "323 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2200/B2600", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323/323 Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323/323 Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323 Protege 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323 Protege 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323/323 Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323/323 Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626/MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Navajo 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo 4x4", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2200/B2600i", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2600i 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Navajo 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navajo 4x4", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX-7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "323", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "929", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300/B3000/B4000 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2500/B3000/B4000 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500/B3000/B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2500/B3000/B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2500/B3000/B4000 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500/B3000/B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2500/B3000/B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MPV 4x4", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2500", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 FFV 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 FFV 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 FFV 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 FFV 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 FFV 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 FFV 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 FFV 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 FFV 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege/Protege MPS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege/Protege MPS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 (FFV) Ethanol 2WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Millenia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege/Protege 5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege/Protege 5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Protege/Protege 5", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "626", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 FFV 2WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Protege/Protege 5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Protege/Protege 5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Protege/Protege 5", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3000 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5 Miata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MPV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6 Sport Wagon", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Speed 3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B3000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B3000 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Speed 3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "B2300 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B4000 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Speed 3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute FWD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute 4WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Speed 3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RX-8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tribute FWD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tribute FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tribute Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tribute 4WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tribute 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-7 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Speed 3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 DI 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 DI 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 DI 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 DI 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-7 2WD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3 DI 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 DI 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 DI 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 DI 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Speed 3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "5", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-3 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-3 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "CX-3 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-3 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "3 4-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 4-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-3 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-3 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 5-Door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "CX-3 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-3 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "MX-5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-9 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CX-5 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 4-Door 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3 5-Door 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "3 5-Door 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ]
+}

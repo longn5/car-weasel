@@ -1,0 +1,662 @@
+{
+    "1987": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Defender 110", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Range Rover County", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover County LWB", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Defender 90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Range Rover County", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover County LWB", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Defender 90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover County Classic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover County LWB", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover 4.0", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover 4.6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Defender 90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Discovery Series II", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Discovery Series II", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Discovery Series II", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Freelander", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Discovery Series II", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Freelander 3 Door", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Freelander 5 Door", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Discovery Series II", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Freelander", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Discovery Series II", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Freelander", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "LR3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "LR3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR3", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover L FFV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "LR2", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover L FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover LWB", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Discovery Sport", 
+            "transmission": "Automatic (S9)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "LR4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Discovery Sport", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover LWB", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover TDV6", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport TDV6", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque Convertible", 
+            "transmission": "Automatic (S9)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Discovery Sport", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Evoque Convertible", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover LWB", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Range Rover Velar", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque Convertible", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Evoque (286 Hp)", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Discovery Sport", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Discovery Sport (286 Hp)", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover LWB", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover SVA", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover LWB SVA", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport SVR", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Range Rover Velar", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque Cabriolet", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover SVA", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Discovery", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Evoque 237HP", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Evoque 286HP", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Discovery Sport Si4", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover LWB", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover LWB SVA", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Discovery Sport", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Sport SVR", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover SV Coupe", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Range Rover Velar", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Range Rover Velar P300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Evoque", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Evoque MHEV", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Range Rover Velar P380", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}

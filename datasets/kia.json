@@ -1,0 +1,1906 @@
+{
+    "1993": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Sephia", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Sephia/Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia/Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sephia/Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sephia/Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra 1.8L", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra 1.8L", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra 2.0L", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra 2.0L", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amanti", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amanti", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amanti", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Optima (2006 New Model)", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Optima (2006 New Model)", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amanti", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Amanti", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Amanti", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Borrego 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Borrego 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Borrego 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Borrego 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Forte", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Borrego 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Borrego 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Borrego 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Borrego 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Borrego 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Borrego 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Borrego 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Borrego 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rondo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rio Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima Hybrid EX", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sorento 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cadenza", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul ECO dynamics", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Rio Eco", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima Hybrid EX", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "K900", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sorento FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sorento AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cadenza", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sportage FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sportage AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul ECO dynamics", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima Hybrid EX", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Rio Eco", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SXL", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage SX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage SX AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Sorento FE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SXL", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio Eco", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cadenza", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul ECO dynamics", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage SX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage SX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "K900", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima Hybrid EX", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Soul Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima FE", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Sportage FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FE FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SXL", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento FE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio Eco", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "K900", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Cadenza", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Forte Koup", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima FE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Optima Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro Touring", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro FE", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Sorento FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima FE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FE FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento FE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SX", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sedona SXL", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Forte 5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Niro", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro FE", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro Touring", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Stinger AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Stinger RWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "K900", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cadenza", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Optima Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima S", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Sorento FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sorento AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sorento AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sportage FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FE FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sportage FE AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cadenza", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima FE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Stinger AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Stinger RWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Forte FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rio", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro Touring", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro FE", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Optima Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "K900", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Niro Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Niro Electric", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Soul Eco dynamics", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Soul", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Sportage FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Telluride FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sportage AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Telluride AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Soul Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Sedona", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Optima Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forte FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Forte", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Optima", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima FE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Optima Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "K900", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}

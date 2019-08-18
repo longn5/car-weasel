@@ -1,0 +1,812 @@
+{
+    "1985": [
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "308", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "328 GTS/GTB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "328 GTS/GTB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3.2 Mondial/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "328 GTS/GTB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3.2 Mondial/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "328 GTS/GTB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "348 TB/TS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3.2 Mondial/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial T/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "F 40", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "348 TB/TS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial T/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "F40", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "348 TB/TS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial T/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "F40", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Testarossa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "348 TB/TS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial T/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mondial T/Cabriolet", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "348 TB/TS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari 348 TB/TS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari 512 TR", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari Mondial T/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari Mondial T/Cabriolet", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Ferrari 348 TB/TS/Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari 512 TR", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari Mondial T/Cabriolet", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari Mondial T/Cabriolet", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Ferrari F355 Berlinetta/GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ferrari F50", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ferrari F512M", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari 348 TB/TS/Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ferrari 456 GT", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Ferrari F355 Berlinetta/GTS", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Ferrari F355", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ferrari 456", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ferrari 456", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Ferrari 550 Maranello", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ferrari F355/355 F1", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ferrari F355/355 F1", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ferrari 456 GT/GTA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ferrari 456 GT/GTA", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "550 Maranello", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F355/355 F1", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "F355/355 F1", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Modena F1", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Modena F1", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "550 Maranello", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "550 Maranello/Barchetta", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "575", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "575", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Enzo Ferrari", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Spider", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "575 M Maranello", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "575 M Maranello", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "456 MGT/MGA", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "360 Modena/Spider/Challenge", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Spider/Challenge", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "575 M Maranello", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "575 M Maranello", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "360 Modena/Spider/Challenge", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "360 Modena/Spider/Challenge", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "575 M Maranello and Superamerica", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "575 M Maranello and Superamerica", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "F430", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "F430", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "F430", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "F430", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F141", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "F141", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "F430", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "F430", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "599 GTB", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "599 GTB", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "F430", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "F430", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "F430", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F430", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "California", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "California", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "458 Italia", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "458 Italia", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "599 GTB Fiorano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "599 GTO", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "599 SA Aperta", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "California", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "612 Scaglietti", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "458 Italia Coupe", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Italia Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "California", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "FF", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "California", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Italia", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "FF", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "458 Italia", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "California", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "FF", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Speciale", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "LaFerrari Hybrid", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "458 Italia", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Speciale", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "458 Speciale Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "FF", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "California T", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "California T", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "FF", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 GTB", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12 tdf", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F60 America", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 Spider", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "488 GTB", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12 tdf", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "F12 Berlinetta", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GTC4Lusso", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "California T", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "LaFerrari Aperta", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "488 GTB", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GTC4Lusso", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "California T", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "812 Superfast", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GTC4Lusso T", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "488 GTB", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "812 Superfast", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GTC4Lusso", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "GTC4Lusso T", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Portofino", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 Pista Spider", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "488 Pista", 
+            "transmission": "Automatic (AM7)"
+        }
+    ]
+}

@@ -1,0 +1,798 @@
+{
+    "1991": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LW", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "L100/200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "L100/200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "L300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LW200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LW300", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "L100/200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "L100/200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "L300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LW300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Ion", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "L200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "L200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "L300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LW300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Ion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "L300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Ion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "L300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LW300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Relay FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Relay AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Ion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Relay FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Relay AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Ion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SKY", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SKY", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aura", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aura", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Relay FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vue Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Outlook FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Outlook AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Aura Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Outlook FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlook AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SKY", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SKY", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aura", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aura", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Aura Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Astra 2DR Hatchback", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Astra 2DR Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Astra 4DR Hatchback", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Astra 4DR Hatchback", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "SKY", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SKY", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Astra 2DR Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Astra 2DR Hatchback", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Astra 4DR Hatchback", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Astra 4DR Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aura", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Aura Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlook FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vue Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlook AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vue Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "SKY", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "SKY", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlook FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Outlook AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Aura", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vue FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue Hybrid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vue AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ]
+}

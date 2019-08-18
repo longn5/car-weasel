@@ -1,0 +1,3050 @@
+{
+    "1984": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Civic CRX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CRX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CRX HF", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HB VX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Del Sol", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Del Sol", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HB VX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Civic Del Sol", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Del Sol", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HB VX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Civic Del Sol", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic Del Sol", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HB VX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Del Sol", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Del Sol", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Del Sol", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Del Sol", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "EV Plus", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "EV Plus", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prelude", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic HX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Passport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S2000", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Crosstour 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Crosstour 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic CNG", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Crosstour 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Crosstour 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Element 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic HF", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord Coupe", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crosstour 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic Natural Gas", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit EV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crosstour 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic Natural Gas", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HF", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Accord Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Fit EV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ridgeline Truck 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Crosstour 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Natural Gas", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic HF", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Civic HF", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crosstour 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Crosstour 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Natural Gas", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "HR-V 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "HR-V 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V 2WD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "HR-V 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V 4WD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "CR-V 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-V 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "CR-Z", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Ridgeline FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ridgeline AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "HR-V AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 5Dr Sport", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 5Dr Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Pilot FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "CR-V FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pilot AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "CR-V AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Civic 5Dr - Type R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Si 2Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic Si 4Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clarity EV", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ridgeline FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ridgeline AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "HR-V AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 5Dr Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 5Dr Sport", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Si 2Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic Si 4Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 5Dr - Type R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "CR-V FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-V AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord 2.0T Sport/Touring", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Clarity Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pilot FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Pilot AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Clarity EV", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Ridgeline FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ridgeline AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Odyssey", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Fit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Insight", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Insight Touring", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pilot FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Pilot AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Pilot AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "HR-V AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "HR-V AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 2Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Civic 4Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-V FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "CR-V AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord 2.0T Sport/Touring", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Accord", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Accord Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Civic 5Dr", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Clarity Plug-in Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Clarity EV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Passport FWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Passport AWD", 
+            "transmission": "Automatic (S9)"
+        }
+    ]
+}

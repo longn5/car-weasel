@@ -1,0 +1,232 @@
+{
+    "1984": [
+        {
+            "model": "Esprit", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Esprit Turbo HC PI", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Elan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Elan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Elan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Esprit Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "98 Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Esprit V8", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Elise/exige", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Elise/Exige", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Elise/Exige", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Elise/Exige", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Elise/Exige", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Elise/Exige", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Elise/Exige", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Evora", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Evora", 
+            "transmission": "Automatic (S6)"
+        }
+    ]
+}

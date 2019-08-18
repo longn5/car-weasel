@@ -1,0 +1,1658 @@
+{
+    "2002": [
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S JCWorks GP Kit", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MiniE", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "John Cooper Works", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman Coupe All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman Coupe All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman Coupe All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Countryman Coupe All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubvan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubvan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works GP-2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman Coupe", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Cooper Clubvan", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Paceman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Paceman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Paceman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Paceman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Paceman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Paceman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Paceman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Paceman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubvan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper (3-doors)", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper (3-doors)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S (3-doors)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S (3-doors)", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Paceman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Paceman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Paceman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Paceman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Paceman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Paceman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Paceman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Paceman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper (3-doors)", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper (3-doors)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper (5-doors)", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper (5-doors)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S (3-doors)", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S (3-doors)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S (5-doors)", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S (5-doors)", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Paceman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Paceman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Paceman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Paceman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Paceman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Paceman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Paceman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "JCW Paceman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper SE Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 2 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper S Hardtop 4 door", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "John Cooper Works Hardtop", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cooper Countryman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Clubman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Countryman", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cooper S Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper S Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "John Cooper Works Clubman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "John Cooper Works Clubman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "JCW Countryman All4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cooper SE Countryman All4", 
+            "transmission": "Automatic (S6)"
+        }
+    ]
+}

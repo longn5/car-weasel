@@ -1,0 +1,2148 @@
+{
+    "1984": [
+        {
+            "model": "Fiero", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2000 Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "2000 Sunbird Convertible", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "2000 Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2000 Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "2000 Sunbird", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "2000 Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Phoenix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Phoenix", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Parisienne", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Parisienne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "2000 Sunbird Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "2000 Sunbird Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "2000 Sunbird Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Parisienne Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Firebird", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Parisienne", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Parisienne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Parisienne Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Fiero", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Firefly FE", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly FE", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Parisienne", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Parisienne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Parisienne Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Firebird/Trans Am/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turbo Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "1000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Safari Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Fiero", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Fiero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turbo Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Safari Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "20th Anniversary Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunburst", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turbo Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Turbo Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix Ste Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "6000 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Lemans", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firefly", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunbird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Formula", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trans Sport/Montana 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana FWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird/Trans Am", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Firebird", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firebird", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Montana FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTO", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTO", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Montana FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "G6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Grand Am", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTO", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sunfire", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wave", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wave", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wave 5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wave 5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Bonneville", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Monterey Wagon FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana SVX FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montana SVX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aztek AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTO", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Solstice", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wave 5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wave 5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G6 GT/GTP Convertible", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "GTO", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GTO", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Montana SV6 FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Torrent FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Montana SV6 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Torrent AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "G5/Pursuit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G5/Pursuit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G6 GT/GTP Convertible", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Torrent FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Torrent AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Prix", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Torrent FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G5/Pursuit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Torrent FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Torrent AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Torrent AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "G5/Pursuit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "G8", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G5 XFE", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "G3 Wave 5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G3 Wave", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Torrent FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Torrent AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G3 Wave 5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G5 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G5 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G5 XFE", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G3 Wave", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "G8", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Torrent FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Torrent AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "G8", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Solstice", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Solstice", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vibe", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G5", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G5", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G5 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G5 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G5 XFE", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G3 (5-Door)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G3 (5-Door)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G3 (3-Door)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G3 (3-Door)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "G6", 
+            "transmission": "Automatic (S4)"
+        }
+    ]
+}

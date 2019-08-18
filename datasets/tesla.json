@@ -1,0 +1,326 @@
+{
+    "2012": [
+        {
+            "model": "Model S", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Model S (60 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (85 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (40 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Model S (85 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (60 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD (85 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Model S (85 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P85D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 85D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (60 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 70D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (90 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Model X AWD - 90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - P90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (70 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (85 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (90 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 70D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 85D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P85D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (75 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (60 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 60D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - 60D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - P100D", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Model S AWD - 60D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - 60D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - 90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - P90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - P90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (60 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S (75 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 90D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S AWD - 100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Long Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X AWD - 100D", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Model 3 Long Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S 75kWh", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S 100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X 100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Long Range  AWD", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Long Range  AWD Performance", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Mid Range", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Model 3 Mid Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Long Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Long Range AWD", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Long Range AWD Performance", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S 100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X 75D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X 100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X P100D", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Standard Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model 3 Standard Range Plus", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S Long Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S Performance (19in Wheels)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S Performance (21in Wheels)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model S Standard Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X Long Range", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Model X Performance (22in Wheels)", 
+            "transmission": "Automatic (A1)"
+        }
+    ]
+}

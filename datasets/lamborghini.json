@@ -1,0 +1,560 @@
+{
+    "1984": [
+        {
+            "model": "Countach Lp500s", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Countach", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Countach", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Countach", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Countach", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Countach", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "DB132/Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "DB132/144 - Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "DB132/144 Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "DB132/144 Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "DB132/144 Diablo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "L-147 Murcielago", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "L-147 Murcielago", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "L-140/141 Gallardo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-140/141 Gallardo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "L-140/141 Gallardo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-140/141 Gallardo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "L-140/715 Gallardo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-140/715 Gallardo", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "L-147/148 Murcielago", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Gallardo Coupe SL", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Coupe SL", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Murcielago", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murcielago", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Murcielago Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murcielago Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Murcielago Reventon", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Murcielago", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murcielago", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Murcielago Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murcielago Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Murcielago", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "Murcielago", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Murcielago Roadster", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "Murcielago Roadster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Murcielago Reventon Roadster", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Veneno Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Gallardo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Gallardo Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Huracan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Veneno Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Huracan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster LP740-4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Coupe LP740-4", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Aventador S Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador S Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Aventador Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Aventador Roadster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Urus", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Huracan Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Huracan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Huracan Spyder 2WD", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ]
+}

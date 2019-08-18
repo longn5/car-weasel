@@ -1,0 +1,364 @@
+{
+    "2004": [
+        {
+            "model": "xA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xA", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "tC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xA", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "tC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xA", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xA", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "tC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "tC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "tC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "tC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "iQ", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "iQ", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "FR-S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "FR-S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "iQ", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "iQ EV", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "iQ", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "FR-S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "FR-S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "xD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "FR-S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "FR-S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "iQ", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "xB", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "FR-S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "FR-S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "iA", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "iA", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "tC", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "iM", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "iM", 
+            "transmission": "Manual 6-spd"
+        }
+    ]
+}

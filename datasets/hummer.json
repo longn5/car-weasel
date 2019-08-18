@@ -1,0 +1,68 @@
+{
+    "2006": [
+        {
+            "model": "H3 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "H3 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "H3 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "H3T 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "H3T 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "H3T 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "H3T 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "H3 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ]
+}

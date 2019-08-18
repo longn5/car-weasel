@@ -1,0 +1,562 @@
+{
+    "1984": [
+        {
+            "model": "Biturbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Biturbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Biturbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Biturbo Spyder", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Biturbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Biturbo 425", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Biturbo Spyder", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Biturbo Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Biturbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Biturbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Biturbo 425", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Biturbo 425", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Q", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Karif", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Karif", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "225", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "222E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "430", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "430", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "228", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "228", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Karif", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Karif", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "222E", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "222E", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "430", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "430", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "228", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "228", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "430", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Spider Cambiocorsa/spider GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Spider Cambiocorsa/spider GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/coupe GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/coupe GT", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Spider Cambiocorsa/Spider GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Spider Cambiocorsa/Spider GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/Coupe GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/Coupe GT", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Spider Cambiocorsa/Spider GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Spider Cambiocorsa/Spider GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/Coupe GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/Coupe GT", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Spyder Cambiocorsa/GT/90 ANV", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Spyder Cambiocorsa/GT/90 ANV", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Coupe and Gransport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Coupe and Gransport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Coupe Cambiocorsa/GT/G-Sport", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Coupe Cambiocorsa/GT/G-Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Quattroporte/QP Sport GT", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Quattroporte", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Quattroporte GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ghibli V6 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte SQ4 V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli V6", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ghibli V6 SQ4", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte SQ4 V6", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ghibli V6 SQ4", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte SQ4 V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli  S RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte S", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ghibli V6 SQ4 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli S RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte SQ4 V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "GranTurismo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ghibli V6 SQ4 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli  V6 RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli  S RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte V8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte SQ4 V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Ghibli  V6 RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte SQ4 V6", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli V6 SQ4 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Ghibli  S RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte V8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Quattroporte S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Levante Trofeo", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "GranTurismo Convertible", 
+            "transmission": "Automatic 6-spd"
+        }
+    ]
+}

@@ -1,0 +1,4082 @@
+{
+    "1984": [
+        {
+            "model": "911 SC", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "928 S", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "944", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "911", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "928 S", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "911", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "928 S", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "924 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "924 S", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "924 S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "924 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944 Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "944", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944 S2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944 Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944 S2", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Carrera 4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Carrera", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "944 S2", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "928 GTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 GTS", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "928 GTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 GTS", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "968", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "968", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "928 GTS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "928 GTS", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "911 Carrera 4/2", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 2/4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 2/4", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "911 GT2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Targa", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Turbo GT2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Targa Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Targa Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Carrera 2 911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 2 911 Gt2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Targa Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Carrera 2 911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 2 911 GT2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Targa Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Targa Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Cab Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Turbo Cab S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Turbo Cab S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Kit", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Kit", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Turbo 4 911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3 RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3 RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Targa", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Carrera 4 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo S", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "911 GT2", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 2 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 S Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Carrera 4 Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Carrera 4 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne TransSiberia", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo Kit", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo S", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3 RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic 7-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster Spyder", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3 RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "911 GT2 RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Speedster", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GTS", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 GTS Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GTS Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayenne S Hybrid", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "911 Speedster", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster Spyder", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman R", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman R", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Targa", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Targa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GTS", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GTS Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 GTS Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S Coupe", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 C4 GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 C4 GTS", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 C4 GTS Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 C4 GTS Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne S Hybrid", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera Turbo S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera S Hybrid", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "New 911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "New 911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "New 911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "New 911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "New 911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "New 911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "New 911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "New 911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Panamera GTS", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Panamera Turbo S", 
+            "transmission": "Automatic 7-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Panamera S Hybrid", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne S Hybrid", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne Diesel", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne Turbo S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne Diesel", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne S Hybrid", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4S Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo S Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera S E-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "918 Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo S Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4S Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera S E-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne Diesel", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne S e-Hybrid", 
+            "transmission": "Automatic (AM8)"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Macan S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4S Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3 RS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne Turbo S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman GT4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo S Executive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne S e-Hybrid", 
+            "transmission": "Automatic (AM8)"
+        }, 
+        {
+            "model": "Panamera S E-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Cayenne Diesel", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 R", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Macan S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne Turbo S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne Platinum", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne S e-Hybrid", 
+            "transmission": "Automatic (AM8)"
+        }, 
+        {
+            "model": "Macan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan Turbo Kit", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Macan S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne GTS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S Exclusive", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne Platinum", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Macan Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne Turbo S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "911 GT2 RS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera T", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera T", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4 ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Cayenne S e-Hybrid", 
+            "transmission": "Automatic (AM8)"
+        }, 
+        {
+            "model": "911 GT3 Touring", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Panamera 4S ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 e-Hybrid ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo S e-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo S e-Hybrid Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo S e-Hybrid ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 e-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 e-Hybrid Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Macan Turbo Kit", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Boxster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Targa 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera T", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera T", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Boxster GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cayman GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera GTS Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "911 Carrera 4 GTS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3 Touring", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "911 GT2 RS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 Turbo S Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "911 GT3 RS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Cayenne", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Cayenne S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Panamera GTS", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera GTS ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Cayenne Turbo", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Panamera 4 e-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 e-Hybrid Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 e-Hybrid ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo S e-Hybrid", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo S e-Hybrid Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera Turbo S e-Hybrid ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "911 Turbo S Exclusive Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Panamera 4", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S Executive", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4 ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Panamera 4S ST", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "Macan S", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ]
+}

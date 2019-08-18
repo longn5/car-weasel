@@ -1,0 +1,1922 @@
+{
+    "1984": [
+        {
+            "model": "SJ410K P/U 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "SJ 410 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "SJ 410V 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "SJ 410 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "SJ 410V 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "SA310", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "SA310", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Samurai", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Convertible", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Forsa Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forsa", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Forsa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Hardtop", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Forsa Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forsa", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Forsa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Hardtop", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GA", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GTI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift GTI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Hardtop", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Convertible 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Hardtop", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Samurai 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GT", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai Soft-top 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Samurai", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "X-90 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "X-90 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "X-90 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "X-90 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "X-90 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "X-90 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "X-90 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "X-90 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "X-90 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "X-90 RWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "X-90 RWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door RWD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door RWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door RWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door RWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Sport RWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Sport RWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sidekick 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sidekick Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "SW", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Esteem", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Esteem Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Aerio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio SX 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 2 Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 2 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Aerio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Verona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio SX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vitara 4 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Aerio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Swift x", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift x", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Verona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio SX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Swift x", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift x", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Verona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio SX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara XL7 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Forenza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aerio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aerio AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XL7 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XL7 AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Forenza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Reno", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forenza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XL7 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XL7 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "XL7 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XL7 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Equator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift x", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift x", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Equator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi S AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Swift x", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Swift x", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 Sport/Anniversary Edition", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sport/Anniversary Edition", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi S AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Equator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi S AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Equator 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Equator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sedan", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "SX4 Sport", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Kizashi S AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kizashi AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Vitara", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Vitara 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ]
+}

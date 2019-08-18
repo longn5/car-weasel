@@ -1,0 +1,670 @@
+{
+    "1984": [
+        {
+            "model": "Lagonda", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/vantage/volante", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/vantage/volante", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Lagonda", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Lagonda", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Lagonda", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Lagonda", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Saloon/Vantage/Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Virage Saloon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Virage Saloon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Virage Saloon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Virage Saloon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Virage/Volante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Virage/Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "DB7 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DB7 Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "DB7 Volante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DB7 Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "DB7 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DB7 Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "DB7 Volante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "DB7 Volante", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "DB-7 Vantage Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Volante", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Volante", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Vanquish", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Vanquish", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB-7 GT Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB-7 GT Volante", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Volante", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "DB-7 Vantage Volante", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB AR1", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "DB AR1", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "V12 Vanquish", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Volante", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V12 Vanquish S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Coupe Manual", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9 Volante Manual", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "DB9 Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Coupe Manual", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9 Volante", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Volante Manual", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V12 Vanquish S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9 Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Coupe Manual", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9 Volante", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Volante Manual", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage ASM", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9 Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9 Volante", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9 Volante", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "DBS Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DBS Coupe", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rapide", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "DB9", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V12 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rapide", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Virage", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rapide", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V12 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vanquish", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Rapide S", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Vantage GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Vantage GT", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V12 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Vanquish", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Rapide S", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Vantage GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V8 Vantage", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V8 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Vantage GT", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V12 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "DB9", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Vanquish", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Rapide S", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "V12 Vantage S", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "V12 Vantage S", 
+            "transmission": "Manual 7-spd"
+        }, 
+        {
+            "model": "Vanquish S Zagato", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Rapide S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V12", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Rapide S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Vanquish S Zagato", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V12", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V8", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Vantage V8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V12", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DBS", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Vanquish S", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Rapide S", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Vantage V8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V12", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "DB11 V8", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}
