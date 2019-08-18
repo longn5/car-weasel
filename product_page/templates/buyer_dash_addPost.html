@@ -1,0 +1,182 @@
+{% extends 'dashboard.html' %}
+{% load static %}
+
+{% block head_assets %}
+<link href="{% static 'base/css/bootstrap.min.css' %}" rel="stylesheet">
+<link href="{% static 'buyer_dashboard/styles2.css' %}" rel="stylesheet">
+<script src="{% static 'base/js/jquery3.4.1.js' %}"></script>
+{% endblock %}
+
+{% block top_nav %}
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">{% block company_title %}{{ user.get_username }}{% endblock %}</a>
+  <ul class="navbar-nav px-3">
+    <li class="nav-item text-nowrap">
+      <a class="nav-link" href="{% url 'logout' %}">Sign Out</a>
+    </li>
+  </ul>
+</nav>
+{% endblock %}
+
+{% block page_content %}
+<div class="container-fluid">
+  <div class="row">
+
+    {% block side_nav %}
+    <nav id="side-nav-dash" class="col-md-2 d-none d-md-block sidebar">
+      <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">
+              Dashboard
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Current Posts
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Add Posts
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Post History
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Current Matches
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              Manage Account Details
+            </a>
+          </li>
+        </ul>
+      </div>
+      <footer class="bg-black small text-center text-white-50">
+        <div class="container">
+          Copyright &copy; Zephyrous LLC 2019
+        </div>
+      </footer>
+    </nav>
+    {% endblock %}
+
+    {% block main_content %}
+
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <div class="text-white d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 class="h2">Create A New Post</h1>
+            <div class="btn-toolbar mb-2 mb-md-0">
+                <div class="btn-group mr-2">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary">Export</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <h2 class="text-white">Select Details</h2>
+            </div>
+
+            <form class="row">
+              <div id="makebox" class="form-group col-md-2">
+                <label for="makeSelection" class="text-black">Select Make</label>
+                <select id="makeSelection" class="form-control custom-select"></select>
+              </div>
+              <div id="modelbox" class="form-group col-md-3">
+                <label for="modelSelection" class="text-black">Select Model</label>
+                <select id="modelSelection" class="form-control custom-select"></select>
+              </div>
+              <div id="yearbox" class="form-group col-md-2">
+                <label for="yearSelection" class="text-black">Select Year</label>
+                <select id="yearSelection" class="form-control custom-select"></select>
+              </div>
+            </form>
+
+
+        </div>
+
+    </main> 
+    {% endblock %}
+    </div>
+</div>
+{% endblock %}
+
+{% block final_assets %}
+<script>
+  $(document).ready(function(){
+    $.ajax({
+        'url': 'http://127.0.0.1:8000/portal/buyer/api/datasets/allMakes',
+        success:function(data){
+            buildMakeSelection(data['makes']);
+        },
+        error: function(){
+            console.log("requset failed");
+        },
+    });
+
+
+    $('#makeSelection').on('change', function(){
+      var makeSel = $('#makeSelection option:selected').html();
+      $.ajax({
+        'url': 'http://127.0.0.1:8000/portal/buyer/api/getModels/' + makeSel,
+        success:function(data){
+            buildModelSelection(data['models']);
+        },
+        error: function(){
+            console.log("requset failed");
+        },
+      });
+    });
+
+
+    $('#modelSelection').on('change', function(){
+      var makeSel = $('#makeSelection option:selected').html();
+      var modelSel = $('#modelSelection option:selected').html();
+      $.ajax({
+        'url': 'http://127.0.0.1:8000/portal/buyer/api/getModelYears/' + makeSel + '/' + modelSel,
+        success:function(data){
+            buildYearSelection(data['years']);
+        },
+        error: function(){
+            console.log("requset failed");
+        },
+      });
+    });
+
+  });
+
+  function buildMakeSelection(makeArray){
+    let retStr = ``;
+    for(var make in makeArray){
+      retStr += `<option>${makeArray[make]}</option>`;
+    }
+    $('#makeSelection').html(retStr);
+  }
+
+
+  function buildModelSelection(makeArray){
+    let retStr = ``;
+    for(var make in makeArray){
+      retStr += `<option>${makeArray[make]}</option>`;
+    }
+    $('#modelSelection').html(retStr);
+  }
+
+
+  function buildYearSelection(makeArray){
+    let retStr = ``;
+    for(var make in makeArray){
+      retStr += `<option>${makeArray[make]}</option>`;
+    }
+    $('#yearSelection').html(retStr);
+  }
+
+</script>
+{% endblock %}

@@ -1,11 +1,9 @@
 $(document).ready(function(){
-
     $('#vin-decode-button').on('click', function(e){
         var vin = $('#vin-entry').val();
         e.stopImmediatePropagation();
         decodeVIN(vin);
     });
-
 });
 
 

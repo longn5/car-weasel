@@ -3,6 +3,15 @@ body {
     font-size: .875rem;
 }
 
+
+#makebox, #modelbox, #yearbox{
+    padding: 20px!important;
+    margin: 5px!important;
+    border: 5px solid #ab8dbb!important;
+    background-color: #50d8d7!important;
+}
+
+
 #side-nav-dash{
     background-repeat: no-repeat;
     background-position: bottom;
@@ -130,19 +139,19 @@ padding-top: 133px; /* Space for fixed navbar */
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
 }
 
-.navbar .form-control {
-padding: .75rem 1rem;
-border-width: 0;
-border-radius: 0;
+.navbar{
+    padding: .75rem 1rem;
+    border-width: 0;
+    border-radius: 0;
 }
 
 .form-control-dark {
-color: #fff;
-background-color: rgba(255, 255, 255, .1);
-border-color: rgba(255, 255, 255, .1);
+    color: #fff;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: rgba(255, 255, 255, .1);
 }
 
 .form-control-dark:focus {
-border-color: transparent;
-box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+    border-color: transparent;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
