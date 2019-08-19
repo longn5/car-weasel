@@ -1,6 +1,64 @@
 import json
+import os
 #import aggregate as makes
 
+
+available_makes = [
+    'acura',
+    'alfa romeo',
+    'aston martin',
+    'audi',
+    'bmw',
+    'bugatti',
+    'buick',
+    'cadillac',
+    'chevrolet',
+    'chrysler',
+    'dodge',
+    'ferrari',
+    'fiat',
+    'ford',
+    'general motors',
+    'geo',
+    'gmc',
+    'honda',
+    'hummer',
+    'hyundai',
+    'infiniti',
+    'isuzu',
+    'jaguar',
+    'jeep',
+    'kia',
+    'koenigsegg',
+    'lamborghini',
+    'land rover',
+    'lexus',
+    'lincoln',
+    'lotus',
+    'maserati',
+    'mazda',
+    'mercedes-benz',
+    'mercury',
+    'mini',
+    'mitsubishi',
+    'nissan',
+    'oldsmobile',
+    'pagani',
+    'plymouth',
+    'pontiac',
+    'porsche',
+    'renault',
+    'saab',
+    'saturn',
+    'scion',
+    'smart',
+    'subaru',
+    'suzuki',
+    'tesla',
+    'toyota',
+    'volkswagen',
+    'volvo',
+]
 
 def modelsByYearsDict(vMake, vYearSet):
 
@@ -85,11 +143,9 @@ def modelsToYears(seed):
 
 
 def getModelsForMake(make):
-    print(make)
-    path = '/home/zephyr/code/django_projects/CarBroker/car-broker-dev/datasets/'
     fname = make.replace(' ', '_') + '_models.json'
 
-    with open(path + fname, 'r') as mDict:
+    with open(os.path.join(os.getcwd()) + '/datasets/' + fname, 'r') as mDict:
         makesDict = json.loads(mDict.read())
         makesList = []
         for key in makesDict.keys():
@@ -99,10 +155,9 @@ def getModelsForMake(make):
         return makesList
 
 def getYearsForModel(make, model):
-    path = '/home/zephyr/code/django_projects/CarBroker/car-broker-dev/datasets/'
     fname = make.replace(' ', '_') + '_models.json'
 
-    with open(path + fname, 'r') as mDict:
+    with open(os.path.join(os.getcwd()) + '/datasets/' + fname, 'r') as mDict:
         makeDict = json.loads(mDict.read())
         yearList = makeDict[model]
         return yearList

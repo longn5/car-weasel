@@ -5,10 +5,10 @@ body {
 
 
 #makebox, #modelbox, #yearbox{
-    padding: 20px!important;
-    margin: 5px!important;
-    border: 5px solid #ab8dbb!important;
-    background-color: #50d8d7!important;
+    padding: 5px;
+    margin: 5px;
+    border: 5px solid #ab8dbb;
+    background-color: #50d8d7;
 }
 
 

@@ -27,7 +27,7 @@
       <div class="sidebar-sticky">
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" href="#">
+            <a class="nav-link active" href="{% url 'welcome' %}">
               Dashboard
             </a>
           </li>
@@ -99,16 +99,16 @@
               </div>
             </form>
 
-
         </div>
-
     </main> 
     {% endblock %}
-    </div>
+  </div>
 </div>
 {% endblock %}
 
 {% block final_assets %}
+
+<!-- THIS IS HERE BECAUSE THE SISTER JS FILE FAILS TO LOAD, FIX THAT, THIS IS NOT A SOLUTION? -->
 <script>
   $(document).ready(function(){
     $.ajax({
