@@ -1,0 +1,1056 @@
+{
+    "1984": [
+        {
+            "model": "Firenza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Omega", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omega", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Delta 88", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Delta 88", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight II", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Delta 88 Royale", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Delta 88 Royale", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight Regency", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Delta 88 Royale", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight Regency", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Delta 88 Royale", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight Regency", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme Classic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Delta 88", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight/Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Firenza Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight/Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Trofeo/Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight/Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Calais", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Trofeo/Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight/Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Custom Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Toronado", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Ciera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ciera SL", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ciera SL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ciera SL Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ninety-Eight", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass Supreme", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight/Regency", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Achieva", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Achieva", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrigue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight/Regency/LSS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Alero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cutlass", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrigue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eighty-Eight/Regency", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Alero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Alero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Intrigue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Alero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Alero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrigue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Alero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Alero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrigue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Alero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Alero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aurora", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Alero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Alero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Silhouette 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Silhouette AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Bravada AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ]
+}

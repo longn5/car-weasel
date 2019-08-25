@@ -1,0 +1,240 @@
+{
+    "1984": [
+        {
+            "model": "Spider Veloce 2000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GT V6 2.5", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Spider Veloce 2000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GT V6 2.5", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTV", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GTV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Milano", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Milano", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Milano", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Milano", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Milano", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Milano", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Spider", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Spider", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Spider", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Spider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "164", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "164", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "8 C Spider", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "4C", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "4C", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Giulia", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "4C", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Giulia AWD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Stelvio AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "4C", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Giulia", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Giulia AWD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Giulia", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Giulia AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Stelvio", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Stelvio AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "4C", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "4C", 
+            "transmission": "Automatic (AM6)"
+        }
+    ]
+}

@@ -1,0 +1,2404 @@
+{
+    "1984": [
+        {
+            "model": "240 DL/GL/Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/GL/Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240 DL/GL/Turbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "760 GLE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "760 GLE", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240 DL/GL/Turbo Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/GL/Turbo Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240 DL/GL/Turbo Wagon", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "240 DL/GL/turbo", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "240 DL/GL/turbo Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "240 DL/GL/turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "240 DL/GL/turbo Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "780", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "780", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740/760", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740/760 Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "780", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "760", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 DL/240 GL Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "760 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "240", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "780", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740 16-Valve", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740 16-Valve", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "760", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "740 16-Valve Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740 16-Valve Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "760 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940 GLE 16-Valve", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "940 SE", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "940 Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940 GLE 16-Valve Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "940 SE Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "940 Turbo Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "240", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "940", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "740 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "940 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "240", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "850", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "960", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "960 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "940 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "960", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "960 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "960/S90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "960 Wagon/V90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "850 Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C70", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C70", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C70", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C70", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S70 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S80", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C70 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C70 Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S70", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S70 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S80", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V40", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C70 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C70 Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80/S80 Executive", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "S80/S80 Executive", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V40", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 XC AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C70 Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C70 Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80/S80 Executive", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S80/S80 Executive", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "V40", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 XC AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80/S80 Executive", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S80/S80 Executive", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "V40", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80/S80 Premier", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80/S80 Premier", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S80/S80 Premier", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "V40", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "S40 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "S40 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "New C70 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 R AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V70 R AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C70 Convertible", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "C70 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "V70 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S40 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V50 AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "C70 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S40 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V50 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "C70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "C70 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "C30 FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 FWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S80 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC70 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 PoleStar AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V60 PoleStar AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V60 CC FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 CC AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 Inscription AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 PoleStar AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V60 PoleStar AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC70 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XC70 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "V60 CC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 CC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S60 Inscription FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S80 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 Inscription FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 Inscription AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 Polestar AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 Polestar AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "S60 Polestar AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 Polestar AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 Inscription FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 Inscription AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "XC40 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC40 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD PHEV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "S60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V60 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "V90 CC AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC40 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC60 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC40 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XC90 AWD", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}

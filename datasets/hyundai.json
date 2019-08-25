@@ -1,0 +1,2552 @@
+{
+    "1986": [
+        {
+            "model": "Pony Excel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pony Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Pony Excel", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "J-Car/Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "J-Car/Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Excel", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Excel", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata (Y-3)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata (Y-3)", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Scoupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Scoupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent (Sporty)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent (Sporty)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Tiburon (Coupe)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon (Coupe)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent (SOHC)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent (SOHC)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XG300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XG350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XG350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XG350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent/Brio", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XG350", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Entourage", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veracruz 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veracruz 4WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Entourage", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Veracruz 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Veracruz 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tiburon", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Genesis", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Entourage", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Veracruz 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Veracruz 4WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Genesis", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Veracruz 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veracruz 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Entourage", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Blue", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent Blue", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Entourage", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Accent Blue", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Genesis", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Equus", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veracruz 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veracruz 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Equus", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis R-Spec", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Elantra Touring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Veracruz 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veracruz 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra Blue", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra Coupe", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Equus", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Genesis", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis R-Spec", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Santa Fe Sport 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe Sport 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid Limited", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Equus", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe Sport 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe Sport 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Genesis", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis R Spec", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid Limited", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra Limited", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra Coupe", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe Ultimate 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Santa Fe Ultimate 4WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Genesis RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Equus", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata Sport Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid Limited", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Santa Fe FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Santa Fe Sport FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Azera Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Equus", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Elantra Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid SE", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Santa Fe Sport FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Azera Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson Eco FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson Eco AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata Sport Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Genesis AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Genesis RWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Genesis Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Santa Fe Sport FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra SE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Santa Fe FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Sonata Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata Sport Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid SE", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson Eco FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson Eco AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Azera Limited", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Azera", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Ioniq Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Ioniq", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Ioniq Blue", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata SE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra SE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Sport Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Santa Fe FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ioniq Blue", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Ioniq", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Ioniq Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Ioniq Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Kona FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Kona FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Kona AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Kona AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid SE", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Santa Fe XL FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe XL Ultimate FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe XL AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe XL Ultimate AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Kona FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Santa Fe AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Kona AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra SE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ioniq Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Kona FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Kona AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata SE", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Sonata", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Ioniq", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Ioniq Blue", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Kona Electric", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Veloster N", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Ioniq Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Elantra GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sonata Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Hybrid SE", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sonata Plug-in Hybrid", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Palisade AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Elantra SE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Veloster", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Veloster N", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Palisade FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Accent", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Kona AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Kona FWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Kona FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Kona AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Elantra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tucson FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Tucson AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Santa Fe FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Santa Fe AWD", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}

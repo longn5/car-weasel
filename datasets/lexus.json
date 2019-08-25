@@ -1,0 +1,2028 @@
+{
+    "1990": [
+        {
+            "model": "ES 250", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "ES 250", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "ES 250", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "ES 250", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LX 450", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LX 450", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC 300/SC 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300/GS 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300/GS 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX 300 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "SC", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SC", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300/GS 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 400", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX 300 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 300 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "SC 300/SC 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX 300 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "SC 300/SC 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ES 300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "RX 300 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ES 330", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 330 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 4WD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "ES 330", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 330 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 330", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "GS 300 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 300/GS 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LS 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 330 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RX 400h 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 330 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RX 400h 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RX 350 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 350 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 400h 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 400h 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RX 350 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 350 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 400h 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 400h 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RX 350 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "RX 350 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GX 470", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350/IS 350C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "HS 250h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "SC 430", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "GS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350/IS 350C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "HS 250h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "RX 350 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "LFA", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350/IS 350C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "HS 250h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350/IS 350C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250/IS 250C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350 C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 250", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350 C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 250 C", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "NX 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "NX 300h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RC 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "NX 200t", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 200t AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 200t AWD F Sport", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "IS 200t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "NX 200t", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "NX 200t AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 200t AWD F Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 600h L", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "RX 450h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RC 200t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 200t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 200t F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350 F Sport", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "CT 200h", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RC 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 200t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 460 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 200t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 200t F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "NX 200t", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 200t AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 200t AWD F Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "IS 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 200t", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "LC 500h", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "LC 500", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 450h", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "GS 300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 300 F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "NX 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300 AWD F Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 500h", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "LS 500h AWD", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "LS 500", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "LS 500 AWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "RX 450h L AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "RC F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "NX 300", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "NX 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300 AWD F Sport", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RX 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LX 570", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GX 460", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "ES 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ES 350 F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "ES 300h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 350 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 350 L AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RX 450h L AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "RX 450h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "LC 500", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "LC 500h", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "IS 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "IS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "IS 300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "GS 350 F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "GS 300 F Sport", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LS 500h", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "LS 500h AWD", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "LS 500", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "LS 500 AWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "GS 300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC 350", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RC 350 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RC 300", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "UX 200", 
+            "transmission": "Automatic (AV-S10)"
+        }, 
+        {
+            "model": "UX 250h", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "UX 250h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "RC F", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "NX 300", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300h AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "NX 300 AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "NX 300 AWD F Sport", 
+            "transmission": "Automatic (S6)"
+        }
+    ]
+}

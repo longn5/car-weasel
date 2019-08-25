@@ -1,0 +1,2292 @@
+{
+    "1984": [
+        {
+            "model": "Scrambler Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Scrambler Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scrambler Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-10 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-10 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CJ7 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "CJ7 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CJ7 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "CJ8 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Cherokee/Wagoneer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CJ7", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "CJ7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CJ7", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Scrambler", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Scrambler", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Scrambler", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-20 Pickup Truck", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Scrambler", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Scrambler", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Scrambler", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "J-20 Pickup Truck", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "CJ7", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "CJ7", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CJ7", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "J-20 Pickup Truck 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "J-10 Pickup Truck 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "J-20 Pickup Truck 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee/Wagoneer 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagoneer Limited 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagoneer 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Wagoneer 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Comanche Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic (L4)"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic (L4)"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic (L3)"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Commander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Commander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler/TJ 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Commander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Commander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty/Cherokee 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Commander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Commander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Commander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Commander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wrangler 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Commander 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Commander 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Liberty 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Cherokee FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD Active Drive II", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Cherokee FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD Active Drive II", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Cherokee FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD Active Drive II", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT8 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cherokee FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Patriot FWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD Active Drive II", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "New Compass 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "New Compass 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "New Compass 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Compass 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cherokee FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD Active Drive II", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee TrackHawk 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "New Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "New Wrangler 4WD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Cherokee FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee 4WD Active Drive II", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Cherokee Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Compass FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Compass 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee SRT 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Cherokee Trackhawk 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Wrangler 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Wrangler Unlimited 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Renegade 2WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade 4WD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Renegade Trailhawk 4WD", 
+            "transmission": "Automatic 9-spd"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Gladiator Pickup 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Gladiator Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ]
+}

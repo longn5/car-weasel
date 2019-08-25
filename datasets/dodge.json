@@ -1,0 +1,5286 @@
+{
+    "1984": [
+        {
+            "model": "Charger", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600 Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diplomat", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rampage Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Rampage Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Rampage Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Power Ram 50 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Charger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600 Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diplomat", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Charger", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600 Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "600 Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "GLH-S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diplomat", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Charger GLH-S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diplomat", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diplomat", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "CSX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Aries", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diplomat", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "600", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Omni", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Monaco", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan/Ram Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Monaco", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt Vista", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AD100/AD150 Ramcharger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "AW100/AW150 Ramcharger 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Colt Vista 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Viper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Monaco", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ramcharger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ramcharger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ramcharger 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Dynasty", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 50 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "D100/D150 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Power Ram 50 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W100/W150 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "W250 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ramcharger 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ramcharger 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "D250 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Viper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Daytona", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Viper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Colt", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Shadow", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B350 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B150/B250 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B350 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Viper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spirit", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan C/V/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Viper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stealth", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 2500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500/B2500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B3500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B1500 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B1500 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B1500 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B1500 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "B1500 Van 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B1500 Wagon 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "B1500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "B2500 Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram Van 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Van 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Wagon 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Wagon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Wagon 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Wagon 2500 2WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram Van 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Van 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Wagon 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Wagon 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Wagon 2500 2WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Neon/SRT-4/SX 2.0", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon/SRT-4/SX 2.0", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Van 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Van 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram Van 2500 2WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Neon/SRT-4/SX 2.0", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon/SRT-4/SX 2.0", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Intrepid", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Neon/SRT-4/SX 2.0", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Neon/SRT-4/SX 2.0", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stratus", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Magnum 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Stratus 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Magnum", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum AWD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Magnum", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Avenger AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Caliber AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Magnum", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Magnum", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Magnum AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Journey  2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey  4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey  2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caravan/Grand Caravan FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Durango HEV", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey  2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey  2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Journey  AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Viper Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper Coupe", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Dakota Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nitro 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Ram 1500 Pickup 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Caliber", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Dart", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Avenger", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Durango AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart GT", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger SRT8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart GT", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Viper SRT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango RWD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Dart", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Dart Aero", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Dart GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Dart GT", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Viper SRT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger SRT8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT8", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango AWD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Viper", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Durango RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger SRT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger GT", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger SRT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger GT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango SRT AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Grand Caravan", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger SRT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Challenger SRT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Challenger GT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger SRT", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Charger AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango RWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Durango SRT AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Journey", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Journey AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ]
+}

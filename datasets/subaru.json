@@ -1,0 +1,2696 @@
+{
+    "1984": [
+        {
+            "model": "Sedan", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Brat 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Brat 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Brat 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Brat 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Hatchback 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "RX Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT-DL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "XT-DL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "3 Door 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Brat 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Hatchback 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "XT-DL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3Door 4WD Turbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3Door 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD Turbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Brat 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Hatchback 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "XT-DL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3Door 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sedan/3Door 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wagon 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Justy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "XT-DL", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Hatchback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sedan/3Door 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sedan/3Door 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wagon 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hatchback 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sedan/3 Door 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Loyale Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XT 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy 4WD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy 4WD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SVX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale AWD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon AWD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Legacy AWD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale AWD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Loyale Wagon AWD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Justy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SVX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SVX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Impreza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Justy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SVX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SVX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD Turbo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Loyale Wagon AWD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Loyale Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Impreza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "SVX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SVX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Impreza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SVX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "SVX AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD (incl. Outback)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD (incl. Outback)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD (incl. Outback)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy/Outback AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy/Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy/Outback AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy/Outback AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback Wagon AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Legacy/Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy/Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "B9 Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Baja AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "B9 Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Legacy Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback SPT AWD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Impreza Wagon/Outback Sport AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outback Wagon AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Tribeca AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "XV Crosstrek Hybrid AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "WRX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "WRX", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza Sport AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "XV Crosstrek Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "WRX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "WRX", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Wagon AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza Sport AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XV Crosstrek AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "XV Crosstrek Hybrid AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "WRX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "WRX", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crosstrek AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Crosstrek AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza 4-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza Sport 4-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza 5-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza Sport 5-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza 4-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport 4-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza 5-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport 5-Door", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "WRX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "WRX", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Crosstrek AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crosstrek AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Impreza 4-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza 4-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza Sport 4-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport 4-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza 5-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza 5-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza Sport 5-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport 5-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "BRZ tS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "WRX STI Type RA", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Ascent", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Ascent Limited/Touring", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "WRX", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "WRX", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Crosstrek AWD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Impreza 4-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza 4-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza Sport 4-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport 4-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza 5-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza 5-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Impreza Sport 5-Door", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Impreza Sport 5-Door", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Crosstrek AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Legacy AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Forester AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Outback AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "BRZ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Crosstrek Hybrid AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Ascent", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Ascent Limited/Touring", 
+            "transmission": "Automatic (AV-S8)"
+        }
+    ]
+}

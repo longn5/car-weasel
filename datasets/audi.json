@@ -1,0 +1,3260 @@
+{
+    "1984": [
+        {
+            "model": "Coupe GT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Coupe GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "4000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000 S quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "4000s quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Coupe GT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Coupe GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000s", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "4000s", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Coupe GT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Coupe GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000 CS quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000 S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "4000 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS quattro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Coupe GT", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Coupe GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "4000", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "4000 CS quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS Turbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000 CS Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 S quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS quattro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "80/90", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "80/90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80/90 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS Turbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000 CS Turbo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000 S", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 S quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000 CS quattro Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "5000S Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "80/90", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "80/90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80/90 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "100 Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200 quattro Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Coupe quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "80", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90 quattro 20v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "200 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200 quattro Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Coupe quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80/90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "80/90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90 quattro 20v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "200 quattro 20v", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200 quattro 20v Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "100 quattro Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "80", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "80", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "80 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "100", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 quattro Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "90 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "90 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "100 quattro Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "100 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "90", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "90 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6 quattro Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S6 Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 quattro Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A6 quattro Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A6 Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Cabriolet", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6 Wagon quattro", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "A4", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A8 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "TT Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A8 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A8 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S8 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Allroad", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Allroad", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A8 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S8 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S6 Avant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Allroad", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Allroad", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S6 Avant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Allroad quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Allroad quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "RS6", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 Cabriolet quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Allroad quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Allroad quattro", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 Cabriolet quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Allroad quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Allroad quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 Cabriolet quattro", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 Cabriolet quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RS4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "TT Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 Cabriolet quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RS4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Avant", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "RS4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 Cabriolet quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4 Cabriolet", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A5 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A6 Avant quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "R8", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 Cabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A4 Avant quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT RS Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "allroad quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RS 5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "TT RS Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S7", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5 Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RS 5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "RS 5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S7", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "allroad quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5 Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RS 5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "SQ5", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 Cabriolet", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S7", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RS 5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "allroad quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5 Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "SQ5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S3", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Q3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q3", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S7", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 Cabriolet", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "TTS Coupe", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S3", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Q3", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q3 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "allroad quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "SQ5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5 Hybrid", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3 e-tron", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 e-tron ultra", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "R8", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8 Spyder", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S7", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "SQ5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S3", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Q3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TTS Coupe", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "Q3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A4 Ultra", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4 allroad quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 e-tron", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "RS 3", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "A5 Sportback quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "S5 Sportback", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "SQ5", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Q3 quattro", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Q3", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "allroad quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TT RS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "TTS Coupe", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "S3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A3 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (AM-S6)"
+        }, 
+        {
+            "model": "A4 Ultra", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S6", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S7", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RS 7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "R8 AWD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8 Spyder AWD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8 RWD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "R8 Spyder RWD", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 5", 
+            "transmission": "Automatic (AM-S8)"
+        }, 
+        {
+            "model": "A3 e-tron", 
+            "transmission": "Automatic (AM-S6)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Q7", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A5 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A5 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A5 Sportback quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "Q8", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A8 L", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S5 Cabriolet", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RS 5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "S4", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "S5 Sportback", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "A7 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A6 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "RS 5 Sportback", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "SQ5", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Q5", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "A4", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TT Roadster quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TT Coupe quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3 Cabriolet", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3 quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A3 Cabriolet quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TTS Coupe", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "e-tron", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Q3 quattro", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "RS 3", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "TT RS", 
+            "transmission": "Automatic (AM-S7)"
+        }, 
+        {
+            "model": "A4 allroad quattro", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "R8 AWD", 
+            "transmission": "Automatic (AM-S7)"
+        }
+    ]
+}

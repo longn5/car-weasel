@@ -1,0 +1,1634 @@
+{
+    "1984": [
+        {
+            "model": "Laser/Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Laser/Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "E Class/New Yorker", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Executive Sedan/Limousine", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Newport/Fifth Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country Wagon", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Laser", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Laser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Newport/Fifth Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Executive Sedan/Limousine", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Laser/Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Laser/Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Limousine", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Newport/Fifth Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country Wagon", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Laser/Daytona", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Laser/Daytona", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Newport/Fifth Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country Wagon", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "QC Car", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Yorker Turbo", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "New Yorker/5th Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Newport/Fifth Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "TC By", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "TC By", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Conquest", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron GTS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Newport/Fifth Avenue", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "New Yorker Fifth Avenue/Imperial", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "TC By Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "TC By Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron Landau", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker Fifth Avenue/Imperial", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "TC by Maserati", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker Fifth Avenue/Imperial", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Imperial/New Yorker Fifth Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "New Yorker", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Fifth Avenue/Imperial", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeBaron", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker/LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "LeBaron Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cirrus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker/LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cirrus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker/LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cirrus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "New Yorker/LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "JX/JXI/Limited Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cirrus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cirrus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300 M", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cirrus", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300 M", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "300 M", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Prowler", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "300 M", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Concorde", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "300 M", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Concorde/LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Crossfire", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300 M", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Concorde/LHS", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pacifica 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pacifica AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300C AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300C/SRT-8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300C/SRT-8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Voyager/Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pacifica 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pacifica AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring 4 Door", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300C AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300C/SRT-8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town and Country 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pacifica 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pacifica AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aspen 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pacifica 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pacifica 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aspen 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pacifica AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sebring AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Crossfire Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Aspen 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pacifica FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pacifica FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Aspen 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pacifica AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town and Country/Voyager/Grand Voy. 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Aspen 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aspen 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aspen HEV", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300/SRT-8", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sebring", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "PT Cruiser", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "200 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "200 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 SRT8", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300 SRT8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 SRT8", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "200 AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Town and Country", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "200 AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Pacifica", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "200", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "200 AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Pacifica Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Pacifica", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Pacifica Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Pacifica", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "300", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "300 AWD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Pacifica Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ]
+}

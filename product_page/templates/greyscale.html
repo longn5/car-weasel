@@ -1,0 +1,159 @@
+{% extends 'greyscale-singlepage.html' %}
+{% load static %}
+
+{% block header_nav %}
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <div class="container">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">Car Weasel</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      Menu
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" id="login_portal_button">Login</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">What</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#how">How</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+{% endblock %}
+
+{% block header %}
+<header class="masthead">
+  <div class="container d-flex h-100 align-items-center">
+    <div class="mx-auto text-center">
+      <h1 class="mx-auto my-0 text-uppercase">Car Weasel</h1>
+      <h2 class="text-white-50 mx-auto mt-2 mb-5">Finding the right car just got at least 2X easier.</h2>
+      <a href="#about" class="btn btn-primary js-scroll-trigger">Tell Me More...</a>
+    </div>
+  </div>
+</header>
+{% endblock %}
+
+{% block about_section %}
+<section id="about" class="about-section text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h2 class="text-white mb-4">Auto-Scaling Real-Time Synergy At Your Fingertips. Did someone say blockchain?! No..? Okay..</h2>
+        <p class="text-white-50">I simply imagine that my skeleton is me and my body is my house. That way I’m always home.</p>
+      </div>
+    </div>
+    <img src="{% static 'greyscale/img/mountain-clipart.png' %}" class="img-fluid" alt="">
+  </div>
+</section>
+{% endblock %}
+
+{% block projects_section %}
+<section id="how" class="projects-section bg-light">
+  <div class="container">
+
+    <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+      <div class="col-xl-8 col-lg-7">
+        <img class="img-fluid mb-3 mb-lg-0" src="{% static 'greyscale/img/volvo.jpg' %}" alt="">
+      </div>
+      <div class="col-xl-4 col-lg-5">
+        <div class="featured-text text-center text-lg-left">
+          <h4>Space Oddity</h4>
+          <p class="text-black-50 mb-0">This is Ground Control to Major Tom. You've really made the grade. And the papers want to know whose shirts you wear. Now it's time to leave the capsule, if you dare.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project One Row -->
+    <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+      <div class="col-lg-6">
+        <img class="img-fluid" src="{% static 'greyscale/img/demo-image-01.jpg' %}" alt="">
+      </div>
+      <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+          <div class="d-flex h-100">
+            <div class="project-text w-100 my-auto text-center text-lg-left">
+              <h4 class="text-white">Give</h4>
+              <p class="mb-0 text-white-50">I travel through time and I return to the future. I gather wisdom now lost. I visit again the eternally ancient caves, before a mighty Emperor thereupon came.</p>
+              <hr class="d-none d-lg-block mb-0 ml-0">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project Two Row -->
+    <div class="row justify-content-center no-gutters">
+      <div class="col-lg-6">
+        <img class="img-fluid" src="{% static 'greyscale/img/demo-image-02.jpg' %}" alt="">
+      </div>
+      <div class="col-lg-6 order-lg-first">
+        <div class="bg-black text-center h-100 project">
+          <div class="d-flex h-100">
+            <div class="project-text w-100 my-auto text-center text-lg-right">
+              <h4 class="text-white">Me</h4>
+              <p class="mb-0 text-white-50">A refugee of reason. In a world of disbelief. Outnumbered by the thousands. Empowered by the ones I seek</p>
+              <hr class="d-none d-lg-block mb-0 mr-0">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <!-- Project Three Row -->
+  <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+      <div class="col-lg-6">
+          <img class="img-fluid" src="{% static 'greyscale/img/demo-image-01.jpg' %}" alt="">
+      </div>
+      <div class="col-lg-6">
+          <div class="bg-black text-center h-100 project">
+          <div class="d-flex h-100">
+              <div class="project-text w-100 my-auto text-center text-lg-left">
+              <h4 class="text-white">Money</h4>
+              <p class="mb-0 text-white-50">I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time, like tears in rain...</p>
+              <hr class="d-none d-lg-block mb-0 ml-0">
+              </div>
+          </div>
+          </div>
+      </div>
+  </div>
+
+  </div>
+</section>
+{% endblock %}
+
+
+{% block contact_section %}
+<section id="contact" class="contact-section bg-black text-white">
+  <div class="container">
+      <form class="col-lg-5 col-md-4 offset-md-4 offset-lg-3">
+        <h2>Contact Us</h2>
+          <div class="form-group">
+            <label for="InputEmail">Email address</label>
+            <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Enter email">
+            <small id="emailHelp" class="form-text text-muted">We'll share your email with anyone who has paid us.</small>
+          </div>
+          <div class="form-group">
+              <label for="InputName">Name</label>
+              <input type="text" class="form-control" id="InputName" aria-describedby="nameHelp" placeholder="Enter name">
+          </div>
+          <div class="form-group">
+              <label for="InputMessage">Message:</label>
+              <textarea class="form-control" id="InputMessage" rows="3" placeholder="What's on your mind...?"></textarea>
+          </div>
+          <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Send me Weasel Alerts</label>
+          </div>
+          <button type="submit" class="btn btn-primary">Send It</button>
+      </form>
+  </div>
+</section>
+{% endblock %}

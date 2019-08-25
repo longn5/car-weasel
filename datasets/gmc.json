@@ -1,0 +1,4984 @@
+{
+    "1984": [
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": null
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Utility Body 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Utility Body 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Suburban 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Suburban 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C15 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Suburban 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Suburban 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD", 
+            "transmission": "Manual 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C15 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Suburban 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Suburban 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "V15 Suburban 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Caballero Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "R15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "R15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "R15 Pickup 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "R15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "R25 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "R25 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "R25 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V15 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "V15 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "V25 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V25 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 3-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "R15 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V15 Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "V15 Suburban 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C25 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K15 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K25 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "T15 (S15) Pickup 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "R15 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "T15 (S15) Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "V15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V15 Jimmy 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "V15 Suburban 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "V15 Suburban 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Cab Chassis 2WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "R1500 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy V1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy V1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Suburban V1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban V1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "R1500 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "S15 Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy V1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy V1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Suburban V1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban V1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "R1500 Suburban 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy V1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy V1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Suburban V1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "C2500 Sierra 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "K2500 Sierra 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "G15/25 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Vandura 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G15/25 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G35 Rally 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Suburban 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rally G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rally G35 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Suburban 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G35  2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rally G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rally G35 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Suburban 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rally G15/25 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Suburban 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Vandura G15/25 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura G35 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vandura 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rally G15/25 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Suburban 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Suburban 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Suburban 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "EV1", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 2500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500  2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD (FFV)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD (FFV)", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra Denali 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon Denali XL 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD (FFV)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD (FFV)", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra Denali 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Savana 15/25 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Jimmy 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana (cargo) (Bi-fuel)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana Passenger (Bi-fuel)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana Cargo (dedicated CNG)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana Passenger (dedicated CNG)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sonoma 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Safari AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XUV 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XUV 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 HD 2WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 HD 4WD CNG", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 2500 Hd 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XUV 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XUV 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Sierra Classic 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra Classic 1500 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra Classic 15 Hybrid 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra Classic 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra Classic 1500 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sierra Classic 1500 AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra Classic 15 Hybrid 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 15/25 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy XL 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 15/25 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500/2500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Envoy 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Envoy 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Savana 1500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 XFE 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 XFE 2WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra C15 XFE 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra K15 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 XFE 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra K15 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 2500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 2500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Canyon Crew Cab 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis Inc 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 XFE 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Savana 2500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon XL 2500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 2500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra C15 XFE 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Yukon 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 2500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 1500 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL 2500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Yukon Denali 1500 Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500  AWD Conversion (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 1500 2WD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 1500 AWD (Passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C10 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL C10 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL K10 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K10 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon Denali K10 AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon XL K10 AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD Conversion (cargo)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 Cab Chassis 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C15 Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 Cab Chassis 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia Limited FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia Limited AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 2500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Savana 3500 2WD (Passenger)", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 Cab Chassis 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis 2WD", 
+            "transmission": "Automatic 8-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra 15 Hybrid 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C15 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K15 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C15 Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K15 Cab Chassis 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Sierra LTD C15 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra LTD K15 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Acadia FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Yukon K1500 XL 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Yukon K1500 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Acadia AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K10 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra K10 4WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Sierra K10 4WD AT4", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Sierra K10 4WD AT4", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C10 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Yukon C1500 2WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Yukon C1500 XL 2WD", 
+            "transmission": "Automatic 10-spd"
+        }, 
+        {
+            "model": "Canyon 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Canyon 4WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Canyon Cab Chassis 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C10 XFE 2WD", 
+            "transmission": "Automatic 8-spd"
+        }, 
+        {
+            "model": "Sierra C10 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K10 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra K10 Cab Chassis 4WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Sierra C10 Cab Chassis 2WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Terrain FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Terrain AWD", 
+            "transmission": "Automatic 9-spd"
+        }
+    ]
+}

@@ -1,0 +1,1548 @@
+{
+    "1990": [
+        {
+            "model": "M30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "M30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45 Full-Active Suspension", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "M30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45 Full-Active Suspension", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45 Full-Active Suspension", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "J30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "J30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45 Full-Active Suspension", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "J30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45 Full-Active Suspension", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "J30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "J30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "I30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "I30", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "G20", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "G20", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "I35", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "G35", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "I35", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX4 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX45 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX4 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "G35", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "I35", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX45 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "G35", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX45 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "G35", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX45 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Q45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Q45 Sport", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "M35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M35x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G35 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35 Coupe", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G35x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX45 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX45 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G35x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M35x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "EX35", 
+            "transmission": "Automatic (S5)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M35", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M35x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37x Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "M35", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M35x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "M45x", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "EX35", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "EX35 AWD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37x Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37x", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "M37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M37x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M56", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M56x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37x Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G25", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G25x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX35", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX35 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "M35h", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M37x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M56", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M56x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX35", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX35 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37x Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G25", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G25x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX35 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX35 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "JX35 FWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "JX35 AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "M37x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37 Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37x Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M56", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M56x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M35h", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "M37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX37 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "FX37 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "G37", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "G37x", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX37", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "EX37 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX56 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX56 4WD", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "QX70 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50a", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50a AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX80 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 AWD Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Convertible", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Q60 Coupe", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "QX50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Q70", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "QX50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX70 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Convertible", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Q60", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Q60", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q40", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q40 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50a", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50a AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX80 4WD (over 6000 lbs curb weight)", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "QX70 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Q50S Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Red Sport  AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S AWD", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "QX70 RWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60S Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60S Red Sport AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX30", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "QX30 AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Q50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50S Red Sport  AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX80 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX80 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 Hybrid AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "QX30", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "QX30 AWD", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "Q50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Red Sport  AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Hybrid AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 Hybrid", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Red Sport AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX80 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 4WD", 
+            "transmission": "Automatic (S7)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "QX50", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "QX50 AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Q70", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q70 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX80 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX80 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q50 Red Sport  AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Red Sport", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Q60 Red Sport AWD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "QX30", 
+            "transmission": "Automatic (AM7)"
+        }, 
+        {
+            "model": "QX30 AWD", 
+            "transmission": "Automatic (AM7)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "QX60 FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "QX60 AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }
+    ]
+}

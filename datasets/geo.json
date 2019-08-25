@@ -1,0 +1,524 @@
+{
+    "1989": [
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Spectrum", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Spectrum", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Hardtop 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Hardtop 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro XFI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro XFI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro XFI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Van 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Van 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro LSI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro XFI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Storm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro XFI", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Van 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4x4", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Van 4x4", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Metro", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Metro", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Prizm", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Van 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4x4", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tracker Convertible 4x4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tracker Van 4x4", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Tracker Van 4x4", 
+            "transmission": "Manual 5-spd"
+        }
+    ]
+}

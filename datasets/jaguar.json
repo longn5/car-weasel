@@ -1,0 +1,1556 @@
+{
+    "1984": [
+        {
+            "model": "XJS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "XJS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "XJS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "XJ-SC", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJS", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "XJ-SC", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ-S", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XJRS Convertble", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XJRS Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS V12 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ12", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "XJS V12 Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS V12 Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ12", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJS Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "XJS Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ12", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "XJ6", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "XJ6L", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas S.C.", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas S/C", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-type (X200) V6", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-type (X200) V8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas S/C", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XJ Sport", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "XJ Sport", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S-Type 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type R", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Vanden Plas", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S-Type 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type R", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vdp 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJR 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S-Type 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type R", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type Sport Brake", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type Sport Brake", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vdp Lwb", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8l", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJR 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "XK8 Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type R", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type Sport Brake", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "X-Type Sport Brake", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vdp Lwb", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "XK", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type R", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type Sport Brake", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vdp Lwb", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "XK", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "S-Type 3.0 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type 4.2 Litre", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "S-Type R", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "X-Type Sport Brake", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vdp Lwb", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "XK", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XKR Convertible", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Super V8", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Vdp", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJ8L", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XJR", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "XF Supercharged", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "XK", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "XK", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XJ LWB", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XK", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XJ LWB", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XK", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ LWB", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ LWB AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ FFV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "F-Type V8 S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XK", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL FFV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "F-Type V8 S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XK", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XK Convertible", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ FFV", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL FFV", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "F-Type R AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Pace", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL AWD", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Pace", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE AWD (296 Hp)", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD (296 Hp)", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Pace (296 Hp)", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE (296 Hp)", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "E-Pace (296 Hp)", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "XF Sportbrake AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "E-Pace", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "XF (296 Hp)", 
+            "transmission": "Automatic (S8)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Pace", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type R AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "XJ", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJ AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XJL", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF Sportbrake AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "E-Pace P250", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "E-Pace P300", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "F-Type SVR AWD Coupe GEN2", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type SVR AWD Convertible GEN2", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "I-Pace", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "F-Type Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE 30t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XE AWD 30t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF 30t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF AWD 30t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "XF Sportbrake AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "E-Pace", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "E-Pace P300", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "F-Pace", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Pace 30t", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type S AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "I-Pace", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "F-Type AWD Coupe", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "F-Type AWD Convertible", 
+            "transmission": "Automatic (S8)"
+        }
+    ]
+}

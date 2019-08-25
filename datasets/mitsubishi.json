@@ -1,0 +1,2948 @@
+{
+    "1984": [
+        {
+            "model": "Cordia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cordia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Manual 4-spd Doubled"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Montero 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Montero 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Montero 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Montero 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cordia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Cordia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Cordia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cordia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Cordia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cordia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Cordia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Cordia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Tredia", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Galant Sigma", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant Sigma", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Starion", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sigma", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sigma", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Space Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sigma", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Space Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Expo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Precis", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Expo.LRV", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Expo", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Nativa 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Nativa 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse Convertible", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "3000 GT", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Nativa 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD (Puerto Rico Only)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD (Puerto Rico Only)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 4WD (Puerto Rico Only)", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD (Puerto Rico Only)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD (Puerto Rico Only)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 4WD (Puerto Rico Only)", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD(Puerto Rico Only)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Diamante Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Diamante Sedan", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Endeavor", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Montero Sport 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Nativa 2WD(Puerto Rico Only)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Montero Sport 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Diamante Sedan", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Endeavor 4WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Endeavor 4WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Montero", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Endeavor 4WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Endeavor AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Endeavor AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Raider Pickup 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Endeavor AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Raider Pickup 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Endeavor 2WD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Endeavor AWD", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse Spyder", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Eclipse", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "i-MiEV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Galant", 
+            "transmission": "Automatic (S4)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "i-MiEV", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Sportback", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "i-MiEV", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer AWD", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer Evolution", 
+            "transmission": "Automatic (AM6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "i-MiEV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "i-MiEV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Mirage G4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage G4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Lancer", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Lancer 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Mirage G4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage G4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander PHEV", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Eclipse Cross 2WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Eclipse Cross ES 2WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Eclipse Cross 4WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Eclipse Cross ES 4WD", 
+            "transmission": "Automatic (AV-S8)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Eclipse Cross 2WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Eclipse Cross ES 2WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Eclipse Cross 4WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Eclipse Cross ES 4WD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Outlander Sport 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander Sport 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Mirage G4", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Mirage G4", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Outlander PHEV", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Outlander 2WD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Outlander 4WD", 
+            "transmission": "Automatic (AV-S6)"
+        }
+    ]
+}

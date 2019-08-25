@@ -1,0 +1,4748 @@
+{
+    "1984": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar/Pulsar-NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar/Pulsar-NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pickup 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pickup Cab Chassis", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar/Pulsar-NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar/Pulsar-NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Truck 2WD (new Version)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD (new Version)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD (new Version)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Honeybee", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Honeybee", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Van(cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van(cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van (cargo)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Van (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Wagon 4WD", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck Cab Chassis 2WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pulsar NX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hardbody 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Hardbody 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hardbody 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hardbody 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van (passenger)", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Van (passenger)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Axxess", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Axxess AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "NX Coupe", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NX Coupe", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Axxess AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "NX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder Van (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Axxess", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Axxess AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Axxess AWD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "NX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra Classic", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra Classic", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder Van (cargo)", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "300ZX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "300ZX 2x2", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima / Stanza", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Truck 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Truck 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "240SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "240SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra/200SX", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altra EV", 
+            "transmission": null
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Hyper-Mini", 
+            "transmission": null
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "350z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Murano 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "350z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Xterra V6 4WD", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "350z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "350z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier V6 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Altima Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "350z Roadster", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "370z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Titan FE 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan FE 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder FE 2WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Pathfinder FE 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Altima Hybrid", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano CrossCabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano CrossCabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima Coupe", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano CrossCabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Murano CrossCabriolet", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Pathfinder Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Cube", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Select FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Select AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Xterra 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Xterra 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder Hybrid 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder Hybrid 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Juke Nismo RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke Nismo RS AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Rogue Select FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Select AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "NV200 NYC Taxi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Juke Nismo RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke Nismo RS AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Leaf (24 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Leaf (30 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima SR", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra FE", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "NV200 NYC Taxi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano Hybrid FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano Hybrid AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 4WD  PRO4X", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Altima SR", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Juke", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Juke Nismo RS", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Juke Nismo RS AWD", 
+            "transmission": "Automatic (AV-S8)"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Quest", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Hybrid  FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue Hybrid  AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Sentra Nismo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra Nismo", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "NV200 NYC Taxi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Sport FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue Sport AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "NV200 NYC Taxi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima SR", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra Nismo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Sentra Nismo", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 4WD PRO4X", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Hybrid  FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Hybrid  AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue Sport FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue Sport AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Leaf", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Kicks", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Sentra Nismo", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Sentra", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Sentra Nismo", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "NV200 Cargo Van", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Versa", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Frontier 2WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 2WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Frontier 4WD", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Frontier 4WD FFV", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Armada 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Armada 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 2WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 4WD", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Titan 4WD PRO4X", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Rogue FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Hybrid  FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Hybrid  AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Leaf (40 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "NV200 NYC Taxi", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 2WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Pathfinder 4WD Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima SR/Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima AWD SR/Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Kicks", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Rogue Sport", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Rogue Sport AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "GT-R", 
+            "transmission": "Automatic (AM6)"
+        }, 
+        {
+            "model": "Maxima", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano FWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Murano AWD", 
+            "transmission": "Automatic (AV-S7)"
+        }, 
+        {
+            "model": "Leaf (62 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }, 
+        {
+            "model": "Leaf SV/SL (62 kW-hr battery pack)", 
+            "transmission": "Automatic (A1)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "370Z", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "370Z", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "370Z Roadster", 
+            "transmission": "Automatic (S7)"
+        }, 
+        {
+            "model": "Altima", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima SR/Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima AWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Altima AWD SR/Platinum", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ]
+}

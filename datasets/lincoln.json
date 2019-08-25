@@ -1,0 +1,1148 @@
+{
+    "1984": [
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Mark VII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark VIII", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Mark VIII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Mark VIII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Mark VIII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Mark VIII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Mark VIII", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Continental", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Blackwood 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Blackwood 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aviator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aviator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aviator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aviator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Aviator 2WD", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Aviator 4WD", 
+            "transmission": "Automatic 5-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "LS", 
+            "transmission": "Automatic 5-spd"
+        }, 
+        {
+            "model": "LS", 
+            "transmission": "Automatic (S5)"
+        }, 
+        {
+            "model": "Zephyr", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark LT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Mark LT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Town Car", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark LT", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Mark LT 4WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Town Car FFV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Navigator 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Town Car FFV", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Town Car FFV", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Navigator 4WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Navigator 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Navigator Limo. 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT Hearse AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 4WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Navigator 4WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "MKT Livery FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Navigator 2WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Navigator 4WD FFV", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "MKC FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator L 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator L 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKC FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator L 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator L 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKS FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "MKC FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator L 2WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator L 4WD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Continental  AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Continental  FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Hearse AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT Limo AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Continental  AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Continental  FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "MKC FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKX AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Navigator L 2WD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "MKT Hearse AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT Limo AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "MKC FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKC AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT Livery AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT Hearse AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT Limo AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "MKT FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKT AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "MKZ Hybrid FWD", 
+            "transmission": "Automatic (variable gear ratios)"
+        }, 
+        {
+            "model": "Nautilus FWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Nautilus AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Continental  AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Continental  FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Navigator 2WD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Navigator L 2WD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Navigator 4WD", 
+            "transmission": "Automatic (S10)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Aviator RWD", 
+            "transmission": "Automatic (S10)"
+        }, 
+        {
+            "model": "Aviator AWD", 
+            "transmission": "Automatic (S10)"
+        }
+    ]
+}

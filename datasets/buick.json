@@ -1,0 +1,1648 @@
+{
+    "1984": [
+        {
+            "model": "Riviera Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Century Estate Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Estate Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra Estate Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1985": [
+        {
+            "model": "Riviera Convertible", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Somerset Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre/Electra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Somerset Regal", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 5-spd"
+        }
+    ], 
+    "1986": [
+        {
+            "model": "Skyhawk", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Somerset/Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Somerset/Skylark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre/Electra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1987": [
+        {
+            "model": "Skyhawk", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Somerset/Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Somerset/Skylark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre/Electra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1988": [
+        {
+            "model": "Reatta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre/Electra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1989": [
+        {
+            "model": "Reatta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skyhawk Wagon", 
+            "transmission": "Manual 5-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre/Electra Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1990": [
+        {
+            "model": "Reatta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Electra/Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Estate Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Coachbuilder Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1991": [
+        {
+            "model": "Reatta", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Coachbuilder Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1992": [
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Coachbuilder Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1993": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Coachbuilder Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }
+    ], 
+    "1994": [
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Coachbuilder Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1995": [
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Coachbuilder Wagon", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1996": [
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 3-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Roadmaster Wagon", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Funeral Coach/Hearse", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1997": [
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal/Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1998": [
+        {
+            "model": "Skylark", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "1999": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Riviera", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2000": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2001": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2002": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2003": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2004": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2005": [
+        {
+            "model": "Century", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lacrosse/Allure", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "LeSabre", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Park Avenue", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terraza FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terraza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2006": [
+        {
+            "model": "Lacrosse/Allure", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lucerne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terraza FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terraza AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2007": [
+        {
+            "model": "Rainier AWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rainier 2WD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lacrosse/Allure", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lucerne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terraza FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous FWD", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Rendezvous AWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2008": [
+        {
+            "model": "Lacrosse/Allure", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Lucerne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Terraza FWD", 
+            "transmission": "Automatic 4-spd"
+        }
+    ], 
+    "2009": [
+        {
+            "model": "Lacrosse/Allure", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lucerne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2010": [
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Lucerne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Lacrosse/Allure", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Lacrosse/Allure AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2011": [
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Lucerne", 
+            "transmission": "Automatic 4-spd"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Manual 6-spd"
+        }
+    ], 
+    "2012": [
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal eAssist", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic (AV-S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2013": [
+        {
+            "model": "Regal eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2014": [
+        {
+            "model": "Verano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2015": [
+        {
+            "model": "Verano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2016": [
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Manual 6-spd"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Regal eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cascada", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 6-spd"
+        }
+    ], 
+    "2017": [
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Verano", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Envision FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Cascada", 
+            "transmission": "Automatic (S6)"
+        }
+    ], 
+    "2018": [
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Cascada", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Envision FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Regal TourX AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S9)"
+        }
+    ], 
+    "2019": [
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Envision FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Cascada", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse eAssist", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "LaCrosse", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Encore", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "LaCrosse AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S9)"
+        }, 
+        {
+            "model": "Regal AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Regal TourX AWD", 
+            "transmission": "Automatic (S8)"
+        }, 
+        {
+            "model": "Regal", 
+            "transmission": "Automatic (S9)"
+        }
+    ], 
+    "2020": [
+        {
+            "model": "Envision FWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 6-spd"
+        }, 
+        {
+            "model": "Envision AWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Encore FWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Encore AWD", 
+            "transmission": "Automatic (S6)"
+        }, 
+        {
+            "model": "Enclave FWD", 
+            "transmission": "Automatic 9-spd"
+        }, 
+        {
+            "model": "Enclave AWD", 
+            "transmission": "Automatic 9-spd"
+        }
+    ]
+}
