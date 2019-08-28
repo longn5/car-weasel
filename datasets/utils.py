@@ -1,6 +1,5 @@
 import json
 import os
-#import aggregate as makes
 
 
 available_makes = [

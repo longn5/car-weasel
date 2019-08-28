@@ -3,6 +3,7 @@ from django.urls import path, include
 from . import views
 
 urlpatterns = [
-    path('', views.login, name="login"),
-    path('/api/datasets/allMakes', views.allMakes, name="allMakes")
+    path('', views.welcome, name="welcome"),
+    path('addPost', views.buyerAddPost, name="buyerAddPost"),
+    # path('/api/datasets/allMakes', views.allMakes, name="allMakes"),
 ]

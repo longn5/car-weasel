@@ -7,9 +7,9 @@ $(document).ready(function(){
         location.href = "/seller";
     });
 
-    $('#login_portal_button').on('click', function(){
-        location.href = "/login";
-    });
+    // $('#login_portal_button').on('click', function(){
+    //     window.location.href = "/login";
+    // });
 
     $('#signup_button').on('click', function(){
         location.href = "/sign-up";
