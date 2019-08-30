@@ -124,7 +124,7 @@
 
   $(document).ready(function(){
     $.ajax({
-        'url': 'http://127.0.0.1:8000/portal/buyer/api/datasets/allMakes',
+        'url': 'http://127.0.0.1:8000/api/datasets/allMakes',
         success:function(data){
             buildMakeSelection(data['makes']);
         },
@@ -145,7 +145,7 @@
     $('#makeSelection').on('change', function(){
       var makeSel = $('#makeSelection option:selected').html();
       $.ajax({
-        'url': 'http://127.0.0.1:8000/portal/buyer/api/getModels/' + makeSel,
+        'url': 'http://127.0.0.1:8000/api/datasets/getModels/' + makeSel,
         success:function(data){
             buildModelSelection(data['models']);
         },
@@ -160,7 +160,7 @@
       var makeSel = $('#makeSelection option:selected').html();
       var modelSel = $('#modelSelection option:selected').html();
       $.ajax({
-        'url': 'http://127.0.0.1:8000/portal/buyer/api/getModelYears/' + makeSel + '/' + modelSel,
+        'url': 'http://127.0.0.1:8000/api/datasets/getModelYears/' + makeSel + '/' + modelSel,
         success:function(data){
             buildYearSelection(data['years']);
         },
@@ -225,7 +225,7 @@
     });
 
     $.ajax({
-      'url': 'http://127.0.0.1:8000/portal/buyer/addPost',
+      'url': 'http://127.0.0.1:8000/buyer_portal/addPost',
       'type': 'POST',
       'dataType': 'json',
       'contentType': 'application/json; charset=utf-8',

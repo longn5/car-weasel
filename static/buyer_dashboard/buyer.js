@@ -2,7 +2,7 @@ $(document).ready(function(){
 
     $('#testButton').on('click', function(){
         $.ajax({
-            'url': '127.0.0.1:8000/portal/api/datasets/allMakes/',
+            'url': 'https://127.0.0.1:8000/api/datasets/allMakes/',
             success:function(data){
                 console.log(data);
             },
