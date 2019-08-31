@@ -10,7 +10,7 @@ def allMakes(request):
 
 def welcome(request):
     if request.user.is_authenticated:   
-        return render(request, 'buyer_dash.html', {'usergroup': 'buyer'})
+        return render(request, 'buyer_portal.html', {'usergroup': 'buyer'})
     else:
         return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
 
