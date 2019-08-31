@@ -1,12 +1,14 @@
 from django.contrib import admin
-
-# Register your models here.
-from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 from django.contrib.auth.models import User
 
+from .models import Buyer
 
-# from .models import Buyer
+class BuyerAdmin(admin.ModelAdmin):
+    empty_value_display = '--empty--'
+    list_display = ('buyer_name', 'is_subscriber', 'paid_tier')
+
+admin.site.register(Buyer, BuyerAdmin)
 # #admin.site.unregister(User)
 
 # class BuyerInline(admin.StackedInline):

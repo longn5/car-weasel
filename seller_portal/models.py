@@ -9,10 +9,14 @@ class Seller(models.Model):
     bis_name = models.CharField(max_length=100, blank=False, null=False)
     street = models.CharField(max_length=100, blank=False, null=False)
     city = models.CharField(max_length=100, blank=False, null=False)
+    state = models.CharField(max_length=2, blank=False, null=False)
     zipcode = models.CharField(max_length=5, blank=False, null=False)
 
     def __str__(self):
         return self.bis_name
+
+    def seller_name(self):
+        return self.user.first_name + ' ' + self.user.last_name
 
 # # https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#onetoone
 # @receiver(post_save, sender=User)

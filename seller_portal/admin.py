@@ -3,7 +3,14 @@ from django.contrib.auth.admin import UserAdmin
 from django.contrib.auth.models import User
 
 
-# from .models import Seller
+from .models import Seller
+
+class SellerAdmin(admin.ModelAdmin):
+    empty_value_display = '--empty--'
+    list_display = ('seller_name', 'bis_name', 'street', 'city', 'state', 'zipcode')
+
+
+admin.site.register(Seller, SellerAdmin)
 
 # class SellerInline(admin.StackedInline):
 #     model = Seller

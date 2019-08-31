@@ -9,6 +9,12 @@ class Buyer(models.Model):
     is_subscriber = models.BooleanField(default=True)
     paid_tier = models.BooleanField(default=False)
 
+    def __str__(self):
+        return self.user.first_name + ' ' + self.user.last_name
+
+    def buyer_name(self):
+        return self.__str__()
+
 
 # # https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#onetoone
 # @receiver(post_save, sender=User)
