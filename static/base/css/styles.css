@@ -17,4 +17,9 @@ body, .jumbotron{
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-  }
+}
+
+.logo-icon {
+    width: 48px;
+    height: 100%;
+}
