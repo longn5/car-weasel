@@ -25,7 +25,7 @@ SECRET_KEY = 'fvd#3)(hc06*w#k5s0gu)wyx$66j91rs1s(0!f%j@&_21$agnj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [u'inthewalls.pythonanywhere.com']
+ALLOWED_HOSTS = [u'inthewalls.pythonanywhere.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
