@@ -1,12 +1,9 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse, JsonResponse
-from dataAPI import api as API
+from django.contrib.auth import login, authenticate
+from django.contrib.auth.forms import UserCreationForm
+from django.contrib.auth.models import Group
 import json
-
-def allMakes(request):
-    data = API.getAllMakes
-    retData = str(data)
-    return HttpResponse(retData, content_type="text/plain")
 
 
 def welcome(request):
@@ -18,7 +15,6 @@ def welcome(request):
 
 def buyerAddPost(request):
     if request.method == "POST":
-        print("POST with authenticated user")
         if request.user.is_authenticated:
             #userid = request.user.id
 
@@ -41,3 +37,22 @@ def buyerAddPost(request):
             return render(request, 'buyer_dash_addPost.html', {})
 
     return redirect('login')
+
+
+def signup(request):
+    if request.method == 'POST':
+        form = UserCreationForm(request.POST)
+        if form.is_valid():
+            form.save()
+            username = form.cleaned_data.get('username')
+            raw_password = form.cleaned_data.get('password1')
+            user = authenticate(username=username, password=raw_password)
+
+            # Add user to buyer group
+            bg = Group.objects.get(name='buyer')
+            bg.user_set.add(user)
+            login(request, user)
+            return redirect('/buyer_portal')
+    else:
+        form = UserCreationForm()
+    return render(request, 'signup.html', {'form': form})
