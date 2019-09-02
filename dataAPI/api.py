@@ -1,8 +1,7 @@
 from datasets import utils as Dutils
-from datasets import aggregate as MakesList
 
 def getAllMakes():
-    return MakesList.available_makes
+    return Dutils.available_makes
 
 def getAllModels(make):
     return Dutils.getModelsForMake(make)
