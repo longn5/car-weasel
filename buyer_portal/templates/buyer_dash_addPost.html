@@ -120,8 +120,13 @@
 <!-- THIS IS HERE BECAUSE THE SISTER JS FILE FAILS TO LOAD, FIX THAT, THIS IS NOT A SOLUTION? -->
 <script>
 
+  // Vehicle data is added as an array to this array.
   let vehiclePostArray = [];
 
+
+  // When the docucment is ready, grab all available makes to populate
+  // selection options. Also, bind actions to changes in drop down selections
+  // and submit button. 
   $(document).ready(function(){
     $.ajax({
         'url': 'http://127.0.0.1:8000/api/datasets/allMakes',
@@ -179,6 +184,8 @@
 
   });
 
+
+// ******* POPULATE SELECTION OPTIONS AS NECESSARY ******** //
   function buildMakeSelection(makeArray){
     let retStr = `<option>Select Make</option>`;
     for(var make in makeArray){
@@ -204,6 +211,9 @@
     }
     $('#yearSelection').html(retStr);
   }
+  // ************************************************* //
+
+
 
   function addVehicle(year, make, model){
     let str = `<tr><td>${make}</td>`;
@@ -213,6 +223,8 @@
     $('#newPostTable tbody').append(str);
     vehiclePostArray.push([make, model, year]);
   }
+
+
 
   function sendVehicles(){
     let obj = vehicleArrayToJSON();
@@ -239,8 +251,13 @@
     });
   }
 
+
+  // Converts the array of vehicles the buyer wants to add into
+  // a JSON string.
   function vehicleArrayToJSON(){
     let vehObjs = [];
+    let count = 0;
+
     for(var entry in vehiclePostArray){
       let obj = {
         "make": vehiclePostArray[entry][0],
@@ -248,10 +265,13 @@
         "year": vehiclePostArray[entry][2],
       }
       vehObjs.push(obj);
+      ++count;
     }
 
-    ret = {"vehicles": vehObjs};
-    return ret;
+    let ret = {"vehicles": vehObjs,
+            "count": count,};
+
+    return JSON.stringify(ret);
   }
 
 
