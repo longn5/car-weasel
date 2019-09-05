@@ -1,8 +1,31 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpResponse
+from django.contrib.auth.models import Group
+from django.contrib.auth import login, authenticate
+
+from .forms import SignUpForm
 
 def index(request):
     if request.user.is_authenticated:
         return render(request, 'seller_dash.html', {})
     else:
         return HttpResponse('<h1>YOU MUST BE LOGGED IN, ASSHOLE</h1>')
+
+
+def signup(request):
+    if request.method == 'POST':
+        form = SignUpForm(request.POST)
+        if form.is_valid():
+            form.save()
+            username = form.cleaned_data.get('username')
+            raw_password = form.cleaned_data.get('password1')
+            user = authenticate(username=username, password=raw_password)
+
+            # Add user to seller group
+            sg = Group.objects.get(name='seller')
+            sg.user_set.add(user)
+            login(request, user)
+            return redirect('/seller_portal')
+    else:
+        form = SignUpForm()
+    return render(request, 'signup.html', {'form': form})
