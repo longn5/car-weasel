@@ -6,7 +6,7 @@ from .models import Buyer
 
 class BuyerAdmin(admin.ModelAdmin):
     empty_value_display = '--empty--'
-    list_display = ('buyer_name', 'is_subscriber', 'paid_tier')
+    list_display = ('buyer_name', 'buyer_email', 'is_subscriber', 'paid_tier')
 
 admin.site.register(Buyer, BuyerAdmin)
 # #admin.site.unregister(User)
