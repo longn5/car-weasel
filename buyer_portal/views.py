@@ -8,8 +8,19 @@ from .forms import SignUpForm
 from .models import Buyer, BuyerPost
 
 def welcome(request):
-    if request.user.is_authenticated:   
-        return render(request, 'buyer_portal.html', {'usergroup': 'buyer'})
+    if request.user.is_authenticated:
+
+        # Get Buyer model associated with user
+        userid = request.user.id
+        buyerObj = Buyer.objects.get(user=userid)
+
+        # Get Buyer's posts
+        buyerPosts = BuyerPost.objects.filter(userid=buyerObj)
+
+        return render(request, 'buyer_portal.html', {
+            'buyer_posts': buyerPosts,
+            'post_count': str(len(buyerPosts)),
+            })
     else:
         return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
 
