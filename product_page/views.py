@@ -22,6 +22,9 @@ def welcome(request):
     else:
         return render(request, 'welcome.html', {'usergroup': 'not logged in'})
 
+def signup_choice(request):
+    return render(request, 'signup_choice.html', {})
+
 def allMakes(request):
     data = API.getAllMakes()
     return JsonResponse({'makes': data})
