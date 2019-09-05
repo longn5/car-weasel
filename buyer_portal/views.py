@@ -5,7 +5,7 @@ from django.contrib.auth.models import Group
 import json
 
 from .forms import SignUpForm
-from .models import Buyer
+from .models import Buyer, BuyerPost
 
 def welcome(request):
     if request.user.is_authenticated:   
@@ -17,16 +17,30 @@ def welcome(request):
 def buyerAddPost(request):
     if request.method == "POST":
         if request.user.is_authenticated:
-            #userid = request.user.id
-
-            # request.POST.items()
-            # The above object is empty, why?
+            # request.POST.items() <-- This is empty, why?
             
             # Convert request data into json, then dump said
             # json into object.
             addstr = request.read().decode('utf-8')
             vehicles = json.loads(addstr)
-            vjson = json.dumps(vehicles)
+
+            # Get the Buyer model assocaited with current user.
+            userid = request.user.id
+            buyerObj = Buyer.objects.get(user_id=userid)
+
+            # For each vehicle found in the user submission, creat a new
+            # BuyerPost object, associated with the user in question.
+            for vehicle in vehicles['vehicles']:
+                bm = BuyerPost(
+                    userid=buyerObj,
+                    make=vehicle['make'],
+                    model=vehicle['model'],
+                    year=vehicle['year']
+                )
+                bm.save()
+
+            # A more helpful response message might be useful?
+            # Maybe repond with the number of vehicles that have been added?
             return JsonResponse({'response': "Success"})
 
         else:
