@@ -1,10 +1,12 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse, JsonResponse
 from django.contrib.auth import login, authenticate
-from django.contrib.auth.forms import UserCreationForm
+#from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import Group
 import json
 
+from .forms import SignUpForm
+from .models import Buyer
 
 def welcome(request):
     if request.user.is_authenticated:   
@@ -26,8 +28,6 @@ def buyerAddPost(request):
             addstr = request.read().decode('utf-8')
             vehicles = json.loads(addstr)
             vjson = json.dumps(vehicles)
-            print("From JSON")
-            print(vjson)
             return JsonResponse({'response': "Success"})
 
         else:
@@ -39,9 +39,11 @@ def buyerAddPost(request):
     return redirect('login')
 
 
+# Method for either serving the signup form, or 
+# processing a sent one.
 def signup(request):
     if request.method == 'POST':
-        form = UserCreationForm(request.POST)
+        form = SignUpForm(request.POST)
         if form.is_valid():
             form.save()
             username = form.cleaned_data.get('username')
@@ -51,8 +53,14 @@ def signup(request):
             # Add user to buyer group
             bg = Group.objects.get(name='buyer')
             bg.user_set.add(user)
+
+            # Create instance of buyer model
+            b = Buyer(user=user)
+            b.save()
+
+            # Login user and send to portal
             login(request, user)
             return redirect('/buyer_portal')
     else:
-        form = UserCreationForm()
+        form = SignUpForm()
     return render(request, 'signup.html', {'form': form})
