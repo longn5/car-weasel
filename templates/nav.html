@@ -41,38 +41,3 @@
   </div>
 </nav>
 {% endblock %}
-
-{% block page_content %}
-<div class="masthead">
-  <div class="container-fluid pt-5 login-container">
-    <div class="row w-100 p-5 justify-content-center">
-      <div class="col-md-8 col-sm-12 mb-5 login-h1">
-        <div>
-          <h1>
-            Auto-Scaling Real-Time Synergy At Your Fingertips.
-          </h1>
-          <h1>
-            Did someone say blockchain?! No..?
-          </h1>
-          <h1>
-            Okay...
-          </h1>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-12 form-container">
-        <div class="login-form-container">
-        <img class="logo-icon mt-5 mb-5" src="{% static 'greyscale/img/weasel.png' %}">
-        <p>Log back in to easily find cars 2x fast. </p>
-          <form class="form-group mt-5 text-white" method="post">
-            {% csrf_token %}
-            <form class="form-group text-white" method="post">
-              <p><input type="text" name="username" placeholder="Username" autofocus="" required="" id="id_username"></p>
-              <p><input type="password" name="password" placeholder="Password" required="" id="id_password"></p>
-            <button type="submit" class="btn btn-primary">Login</button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-{% endblock %}
