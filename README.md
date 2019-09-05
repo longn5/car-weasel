@@ -13,6 +13,6 @@
 
 <h3>Finding Static:</h3>
 <p>- Django server can't find static, or doesn't load changes?</p>
-<p>- 'python manage.py findstatc [path/to/static/file] --verbosity=2</p>
+<p>- python manage.py findstatic [path/to/static/file] --verbosity=2</p>
 <p>- The above command prints where the server is looking for static files at.</p>
 <p>- Copy project.static folder into the above location as necessary.</p>
