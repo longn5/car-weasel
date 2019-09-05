@@ -25,6 +25,19 @@ def welcome(request):
         return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
 
 
+def current_posts(request):
+    if request.user.is_authenticated:
+        userid = request.user.id
+        buyerObj = Buyer.objects.get(user=userid)
+        buyerPosts = BuyerPosts.objects.filter(userid=buyerObj)
+
+        return render(request, 'current_posts.html', {
+            'buyer_posts': buyerPosts,
+            'post_count': str(len(buyerPosts)),
+        })
+    else:
+        return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
+
 def buyerAddPost(request):
     if request.method == "POST":
         if request.user.is_authenticated:
