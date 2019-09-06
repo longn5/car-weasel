@@ -8,7 +8,7 @@
 
 {% block top_nav %}
 <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
-  <a class="navbar-brand col-sm-3 col-md-2 mr-0">{% block company_title %}{{ user.get_username }}{% endblock %}</a>
+  <a class="navbar-brand col-sm-3 col-md-2 mr-0 text-white">{% block company_title %}{{ user.get_username }}{% endblock %}</a>
   <ul class="navbar-nav px-3">
     <li class="nav-item text-nowrap">
       <a class="nav-link" href="{% url 'logout' %}">Sign Out</a>
@@ -88,6 +88,14 @@
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
                   </div>
+                </div>
+              </div>
+            </div>
+            {% empty %}
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+                <div class="card-body">
+                  <p class="card-text">YOU DON'T HAVE ANY VEHICLES SAVED....</p>
                 </div>
               </div>
             </div>
