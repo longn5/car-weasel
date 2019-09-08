@@ -1,16 +1,73 @@
 from django.shortcuts import render, redirect
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 from django.contrib.auth.models import Group
 from django.contrib.auth import login, authenticate
+import json
 
 from .forms import SignUpForm
-from .models import Seller
+from .models import Seller, SellerPost
 
+# Method for serving the Seller Dashboard upon login.
+# Also handles Seller uploading inventory via Dashboard landing page.
 def index(request):
+    if request.method == "POST":
+        if request.user.is_authenticated:
+            consume_seller_post(request)
+            return JsonResponse({'response': 'success'})
+        else:
+            return JsonResponse({'response': 'you must be logged in to POST'})
+    else:
+        if request.user.is_authenticated:
+            return render(request, 'seller_dash.html', {})
+        else:
+            return HttpResponse('<h1>YOU MUST BE LOGGED IN, ASSHOLE</h1>')
+
+
+
+# Method for handling view that displays inventory
+def inventory(request):
     if request.user.is_authenticated:
-        return render(request, 'seller_dash.html', {})
+        # Fetch data associated with Seller
+        userid = request.user.id
+        sellerObj = Seller.objects.get(user=userid)
+        sellerPosts = SellerPost.objects.filter(userid=sellerObj)
+
+        return render(request, 'seller_inventory.html', {
+            'seller_inventory': sellerPosts,
+            'post_count': str(len(sellerPosts)),
+        })
     else:
         return HttpResponse('<h1>YOU MUST BE LOGGED IN, ASSHOLE</h1>')
+
+
+
+# Method for consuming a Seller's vehicle upload. This method should only
+# be called after a Seller has been authenticated. 
+def consume_seller_post(request):
+    # Convert request data into json, then load said json into object
+    uploadStr = request.read().decode('utf-8')
+    vehicles = json.loads(uploadStr)
+
+    # Get the Seller model associated with current user.
+    userid = request.user.id
+    sellerObj = Seller.objects.get(user_id=userid)
+
+    # For each vehicle uploaded, instantiate the associated Model and save it.
+    for vehicle in vehicles['vehicles']:
+        sellerModel = SellerPost(
+            userid = sellerObj,
+            cylinders = vehicle['cylinders'],
+            doors = vehicle['doors'],
+            drive = vehicle['drive'],
+            make = vehicle['make'],
+            model = vehicle['model'],
+            series = vehicle['series'],
+            trim = vehicle['trim'],
+            vin = vehicle['vin'],
+            year = vehicle['year']
+        )
+        sellerModel.save()
+
 
 # Method for either serving for processing a Seller signup form
 def signup(request):
