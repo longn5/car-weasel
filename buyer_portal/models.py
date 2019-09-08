@@ -18,3 +18,13 @@ class Buyer(models.Model):
 
     def buyer_email(self):
         return self.user.email
+
+# Buyer Post
+class BuyerPost(models.Model):
+    userid = models.ForeignKey(Buyer, on_delete=models.CASCADE)
+    make = models.CharField(max_length=30, null=False, blank=False)
+    model = models.CharField(max_length=30, null=False, blank=False)
+    year = models.CharField(max_length=4, null=False, blank=False)
+
+    def __str__(self):
+        return self.make + ' ' + self.model + ' - ' + self.year
