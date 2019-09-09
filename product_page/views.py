@@ -18,9 +18,9 @@ def welcome(request):
         elif(usrgrp == 'buyer'):
             return redirect('/buyer_portal')
         else:
-            return render(request, 'welcome.html', {'usergroup': 'none'})
+            return render(request, '../templates/registration/logout.html', {'usergroup': 'none'})
     else:
-        return render(request, 'welcome.html', {'usergroup': 'not logged in'})
+        return render(request, '../templates/registration/logout.html', {'usergroup': 'not logged in'})
 
 def signup_choice(request):
     return render(request, 'signup_choice.html', {})
