@@ -9,7 +9,7 @@ import json
 def index(request):
     return render(request, 'greyscale.html', {})
 
-def welcome(request):
+def portal(request):
     if request.user.is_authenticated:   
         usrgrp = Group.objects.get(user=request.user).name
         
@@ -18,9 +18,9 @@ def welcome(request):
         elif(usrgrp == 'buyer'):
             return redirect('/buyer_portal')
         else:
-            return render(request, '../templates/registration/logout.html', {'usergroup': 'none'})
+            return redirect('logout')
     else:
-        return render(request, '../templates/registration/logout.html', {'usergroup': 'not logged in'})
+        return redirect('login')
 
 def signup_choice(request):
     return render(request, 'signup_choice.html', {})

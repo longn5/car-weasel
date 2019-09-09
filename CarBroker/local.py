@@ -121,11 +121,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
-
-# default static files settings for PythonAnywhere.
-# see https://help.pythonanywhere.com/pages/DjangoStaticFiles for more info
-STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, "static/")
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static_files')]
-LOGIN_REDIRECT_URL = '/portal'
-LOGOUT_REDIRECT_URL = '/portal'
+LOGIN_REDIRECT_URL = 'portal'
+LOGOUT_REDIRECT_URL = 'login'
