@@ -5,28 +5,58 @@ from django.contrib.auth.models import Group
 import json
 
 from .forms import SignUpForm
-from .models import Buyer
+from .models import Buyer, BuyerPost
 
 def welcome(request):
-    if request.user.is_authenticated:   
-        return render(request, 'buyer_portal.html', {'usergroup': 'buyer'})
+    if request.user.is_authenticated:
+        userid = request.user.id
+
+        return render(request, 'buyer_portal.html', {})
     else:
         return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
 
 
+def current_posts(request):
+    if request.user.is_authenticated:
+        userid = request.user.id
+        buyerObj = Buyer.objects.get(user=userid)
+        buyerPosts = BuyerPost.objects.filter(userid=buyerObj)
+
+        return render(request, 'current_posts.html', {
+            'buyer_posts': buyerPosts,
+            'post_count': str(len(buyerPosts)),
+        })
+    else:
+        return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
+
+
+# Method for a user to be able to add a post describing a vehicle.
 def buyerAddPost(request):
     if request.method == "POST":
         if request.user.is_authenticated:
-            #userid = request.user.id
-
-            # request.POST.items()
-            # The above object is empty, why?
+            # request.POST.items() <-- This is empty, why?
             
-            # Convert request data into json, then dump said
-            # json into object.
+            # Convert request data into json, then load said json into object.
             addstr = request.read().decode('utf-8')
             vehicles = json.loads(addstr)
-            vjson = json.dumps(vehicles)
+
+            # Get the Buyer model associated with current user.
+            userid = request.user.id
+            buyerObj = Buyer.objects.get(user_id=userid)
+
+            # For each vehicle found in the user submission, creat a new
+            # BuyerPost object, associated with the user in question.
+            for vehicle in vehicles['vehicles']:
+                bm = BuyerPost(
+                    userid=buyerObj,
+                    make=vehicle['make'],
+                    model=vehicle['model'],
+                    year=vehicle['year']
+                )
+                bm.save()
+
+            # A more helpful response message might be useful?
+            # Maybe repond with the number of vehicles that have been added?
             return JsonResponse({'response': "Success"})
 
         else:
@@ -38,8 +68,7 @@ def buyerAddPost(request):
     return redirect('login')
 
 
-# Method for either serving the signup form, or 
-# processing a sent one.
+# Method for either serving the signup form, or processing a sent one.
 def signup(request):
     if request.method == 'POST':
         form = SignUpForm(request.POST)
