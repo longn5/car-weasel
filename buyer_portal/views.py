@@ -46,18 +46,30 @@ def buyerAddPost(request):
 
             # For each vehicle found in the user submission, creat a new
             # BuyerPost object, associated with the user in question.
-            for vehicle in vehicles['vehicles']:
-                bm = BuyerPost(
-                    userid=buyerObj,
-                    make=vehicle['make'],
-                    model=vehicle['model'],
-                    year=vehicle['year']
-                )
-                bm.save()
+            count = 0
+            try:
+                for vehicle in vehicles['vehicles']:
+                    bm = BuyerPost(
+                        userid=buyerObj,
+                        make=vehicle['make'],
+                        model=vehicle['model'],
+                        year=vehicle['year']
+                    )
+                    bm.save()
+                    count = count + 1
 
-            # A more helpful response message might be useful?
-            # Maybe repond with the number of vehicles that have been added?
-            return JsonResponse({'response': "Success"})
+                return JsonResponse({
+                    'status': 'success',
+                    'added': str(count),
+                    'total': str(vehicles['count'])
+                    })
+            
+            except Buyer.DoesNotExist:
+                return JsonResponse({
+                    'status': 'failure',
+                    'added': str(count),
+                    'total':  str(vehicles['count'])
+                    })
 
         else:
             return JsonResponse({'response': "Must Be Authenticated to POST"})
