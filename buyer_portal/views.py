@@ -64,7 +64,7 @@ def buyerAddPost(request):
                     'total': str(vehicles['count'])
                     })
             
-            except Buyer.DoesNotExist:
+            except (Buyer.DoesNotExist, BuyerPost.DoesNotExist):
                 return JsonResponse({
                     'status': 'failure',
                     'added': str(count),
