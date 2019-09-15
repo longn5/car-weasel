@@ -46,52 +46,58 @@ function decodeVIN(vin){
     var doors = null;
     var drive = null;
     var cylinders = null;
+    var err = null;
     var vehicle = {};
 
     $.ajax({
         'url': url,
         success: function(data){
-            if(parseInt(data['Count']) > 0){
-                var results = data['Results'];
 
-                for(var entry in results){
-                    if(results[entry]['Variable'] == 'Make'){
-                        make = results[entry]['Value'];
-                    }
-                    
-                    if(results[entry]['Variable'] == 'Model'){
-                        model = results[entry]['Value'];
-                    }
+            let results = data['Results'];
+            for(var entry in results){
 
-                    if(results[entry]['Variable'] == 'Model Year'){
-                        year = results[entry]['Value'];
-                    }
-
-                    if(results[entry]['Variable'] == 'Trim'){
-                        trim = results[entry]['Value'];
-                    }
-
-                    if(results[entry]['Variable'] == 'Series'){
-                        series = results[entry]['Value'];
-                    }
-
-                    if(results[entry]['Variable'] == 'Body Class'){
-                        body = results[entry]['Value'];
-                    }
-
-                    if(results[entry]['Variable'] == 'Doors'){
-                        doors = results[entry]['Value'];
-                    }
-
-                    if(results[entry]['Variable'] == 'Drive Type'){
-                        drive = results[entry]['Value'];
-                    }
-
-                    if(results[entry]['Variable'] == 'Engine Number of Cylinders'){
-                        cylinders = results[entry]['Value'];
-                    }
+                if(results[entry]['Variable'] == 'Error Code'){
+                    err = results[entry]['Value'];
                 }
 
+                if(results[entry]['Variable'] == 'Make'){
+                    make = results[entry]['Value'];
+                }
+                
+                if(results[entry]['Variable'] == 'Model'){
+                    model = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Model Year'){
+                    year = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Trim'){
+                    trim = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Series'){
+                    series = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Body Class'){
+                    body = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Doors'){
+                    doors = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Drive Type'){
+                    drive = results[entry]['Value'];
+                }
+
+                if(results[entry]['Variable'] == 'Engine Number of Cylinders'){
+                    cylinders = results[entry]['Value'];
+                }
+            }
+
+            if(err === "0" || err === 0){
                 vehicle.make = make;
                 vehicle.year = year;
                 vehicle.model = model;
@@ -104,13 +110,17 @@ function decodeVIN(vin){
                 vehicle.vin = vin;
 
                 addToTable(vehicle);
-                console.log(vehicle);
             }else{
-                console.log("Something doesn't seen right...");
+                let msg = `Incorrect VIN  ${vin} . Check VIN and try again.`;
+                let a = generateAlert('danger', msg);
+                $('#alert-space').append(a);
             }
         },
         error: function(){
             console.log("Error during API call");
+            let msg = "Error with NHTSA API";
+            let a = generateAlert("danger", msg);
+            $('#alert-space').append(a);
         },
     });
 }
@@ -152,10 +162,24 @@ function sendVehicles(){
       'contentType': 'application/json; charset=utf-8',
       data: obj,
       success: function(data){
-        console.log(data);
+            let val = parseInt(data['status']);
+
+            if(val > 0){
+                let msg = `Added ${val} Vehicle(s) To Inventory.`;
+                let a = generateAlert('success', msg);
+                $('#alert-space').append(a);
+            }else{
+                let msg = 'Failed To Upload Changes To Inventory!';
+                let a = generateAlert('danger', msg);
+                $('#alert-space').append(a);
+            }
+            console.log(data);
       },
       error: function(){
-        console.log("Something went wrong POSTing");
+            console.log("Something went wrong POSTing");
+            let msg = 'Failed To Upload Changes To Inventory!';
+            let a = generateAlert('danger', msg);
+            $('#alert-space').append(a);
       },
     });
 }
@@ -189,4 +213,20 @@ function vehicleArrayToJSON(){
             "count": count,};
 
     return JSON.stringify(ret);
+}
+
+
+// Alert type is a bootstrap alert class, msg is the message to be displayed
+// in the alert. Returns HTML to generate alert.
+function generateAlert(alertType, msg){
+    let retStr = `
+    <div id="addPostsAlert" class="alert alert-${alertType} alert-dismissible fade show" role="alert">
+      ${msg}
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    `;
+  
+    return retStr;
 }

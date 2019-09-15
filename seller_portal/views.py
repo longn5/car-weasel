@@ -12,15 +12,15 @@ from .models import Seller, SellerPost
 def index(request):
     if request.method == "POST":
         if request.user.is_authenticated:
-            consume_seller_post(request)
-            return JsonResponse({'response': 'success'})
+            res = consume_seller_post(request)
+            return JsonResponse({'status': str(res)})
         else:
             return JsonResponse({'response': 'you must be logged in to POST'})
     else:
         if request.user.is_authenticated:
             return render(request, 'seller_dash.html', {})
         else:
-            return HttpResponse('<h1>YOU MUST BE LOGGED IN, ASSHOLE</h1>')
+            return HttpResponse('<h1>YOU MUST BE LOGGED IN</h1>')
 
 
 
@@ -53,20 +53,28 @@ def consume_seller_post(request):
     sellerObj = Seller.objects.get(user_id=userid)
 
     # For each vehicle uploaded, instantiate the associated Model and save it.
-    for vehicle in vehicles['vehicles']:
-        sellerModel = SellerPost(
-            userid = sellerObj,
-            cylinders = vehicle['cylinders'],
-            doors = vehicle['doors'],
-            drive = vehicle['drive'],
-            make = vehicle['make'],
-            model = vehicle['model'],
-            series = vehicle['series'],
-            trim = vehicle['trim'],
-            vin = vehicle['vin'],
-            year = vehicle['year']
-        )
-        sellerModel.save()
+    count = 0
+    try:
+        for vehicle in vehicles['vehicles']:
+            sellerModel = SellerPost(
+                userid = sellerObj,
+                cylinders = vehicle['cylinders'],
+                doors = vehicle['doors'],
+                drive = vehicle['drive'],
+                make = vehicle['make'],
+                model = vehicle['model'],
+                series = vehicle['series'],
+                trim = vehicle['trim'],
+                vin = vehicle['vin'],
+                year = vehicle['year']
+            )
+            sellerModel.save()
+            count = count + 1
+
+        return count
+  
+    except (Seller.DoesNotExist, SellerPost.DoesNotExist):
+        return 0
 
 
 # Method for either serving for processing a Seller signup form
